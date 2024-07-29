@@ -8195,6 +8195,20 @@
       "search": [
         "priority-warning"
       ]
+    },
+    {
+      "uid": "cc5ce40e296363eb39377958edb9ca1f",
+      "css": "insert-drive-file",
+      "code": 59977,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M583.3 83.3H250C204.2 83.3 167.1 120.8 167.1 166.7L166.7 833.3C166.7 879.2 203.7 916.7 249.6 916.7H750C795.8 916.7 833.3 879.2 833.3 833.3V333.3L583.3 83.3ZM250 833.3V166.7H541.7V375H750V833.3H250Z",
+        "width": 1000
+      },
+      "search": [
+        "insert-drive-file"
+      ]
     }
   ]
 }
