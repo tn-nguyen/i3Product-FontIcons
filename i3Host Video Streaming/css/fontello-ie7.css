@@ -596,3 +596,4 @@
 .icon-not-recording { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea47;&nbsp;'); }
 .icon-priority-warning { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea48;&nbsp;'); }
 .icon-insert-drive-file { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea49;&nbsp;'); }
+.icon-folder-special { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4a;&nbsp;'); }
