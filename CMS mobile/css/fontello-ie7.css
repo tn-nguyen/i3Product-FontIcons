@@ -126,6 +126,9 @@
 .icon-check-double { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe878;&nbsp;'); }
 .icon-search-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe879;&nbsp;'); }
 .icon-filter-list { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe87a;&nbsp;'); }
+.icon-phone-iphone { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe87b;&nbsp;'); }
+.icon-phonelink-lock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe87c;&nbsp;'); }
+.icon-email { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe87d;&nbsp;'); }
 .icon-wc-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea03;&nbsp;'); }
 .icon-family { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea04;&nbsp;'); }
 .icon-time-clock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea05;&nbsp;'); }
