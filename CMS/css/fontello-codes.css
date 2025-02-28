@@ -7,6 +7,7 @@
 .icon-license-plate:before { content: '\e805'; } /* '' */
 .icon-vpc-1:before { content: '\e806'; } /* '' */
 .icon-vs:before { content: '\e807'; } /* '' */
+.icon-open_in_new:before { content: '\e808'; } /* '' */
 .icon-trash-3:before { content: '\e80a'; } /* '' */
 .icon-cog-3:before { content: '\e812'; } /* '' */
 .icon-tools:before { content: '\e813'; } /* '' */
@@ -98,6 +99,8 @@
 .icon-battery:before { content: '\e9aa'; } /* '' */
 .icon-cellular:before { content: '\e9ab'; } /* '' */
 .icon-wifi:before { content: '\e9ac'; } /* '' */
+.icon-edit_note:before { content: '\e9ad'; } /* '' */
+.icon-compare_arrows:before { content: '\e9ae'; } /* '' */
 .icon-mic-1:before { content: '\e9af'; } /* '' */
 .icon-down-open-1:before { content: '\e9b6'; } /* '' */
 .icon-left-open-1:before { content: '\e9b7'; } /* '' */

@@ -7,6 +7,7 @@
 .icon-license-plate { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); }
 .icon-vpc-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;'); }
 .icon-vs { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;&nbsp;'); }
+.icon-open_in_new { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe808;&nbsp;'); }
 .icon-trash-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80a;&nbsp;'); }
 .icon-cog-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe812;&nbsp;'); }
 .icon-tools { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe813;&nbsp;'); }
@@ -98,6 +99,8 @@
 .icon-battery { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9aa;&nbsp;'); }
 .icon-cellular { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ab;&nbsp;'); }
 .icon-wifi { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ac;&nbsp;'); }
+.icon-edit_note { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ad;&nbsp;'); }
+.icon-compare_arrows { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ae;&nbsp;'); }
 .icon-mic-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9af;&nbsp;'); }
 .icon-down-open-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b6;&nbsp;'); }
 .icon-left-open-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b7;&nbsp;'); }
