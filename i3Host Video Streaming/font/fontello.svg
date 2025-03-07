@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg">
-<metadata>Copyright (C) 2024 by original authors @ fontello.com</metadata>
+<metadata>Copyright (C) 2025 by original authors @ fontello.com</metadata>
 <defs>
 <font id="fontello" horiz-adv-x="1000" >
 <font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
@@ -1179,6 +1179,8 @@
 <glyph glyph-name="insert-drive-file" unicode="&#xea49;" d="M583 767h-333c-46 0-83-38-83-84l0-666c0-46 37-84 83-84h500c46 0 83 38 83 84v500l-250 250z m-333-750v666h292v-208h208v-458h-500z" horiz-adv-x="1000" />
 
 <glyph glyph-name="folder-special" unicode="&#xea4a;" d="M833 600h-333l-59 59c-16 16-37 24-59 24h-215c-46 0-84-37-84-83v-500c0-46 38-83 84-83h666c46 0 84 37 84 83v417c0 46-38 83-84 83z m-127-434l-81 47-81-47c-16-9-35 5-31 23l22 92-71 61c-14 12-6 35 12 36l93 8 36 86c8 17 32 17 39 0l36-86 93-8c19-1 26-24 12-36l-70-61 21-92c4-18-15-32-30-23v0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="bookmark_add" unicode="&#xea4b;" d="M208-25v667c0 23 9 42 25 59 16 16 36 24 59 24h250v-83h-250v-540l208 90 208-90v290h84v-417l-292 125-292-125z m500 500v83h-83v84h83v83h84v-83h83v-84h-83v-83h-84z" horiz-adv-x="1000" />
 </font>
 </defs>
 </svg>
