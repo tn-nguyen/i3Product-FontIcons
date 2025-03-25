@@ -102,6 +102,11 @@
 .icon-edit_note:before { content: '\e9ad'; } /* '' */
 .icon-compare_arrows:before { content: '\e9ae'; } /* '' */
 .icon-mic-1:before { content: '\e9af'; } /* '' */
+.icon-star:before { content: '\e9b0'; } /* '' */
+.icon-home-1:before { content: '\e9b1'; } /* '' */
+.icon-insert-chart-outlined:before { content: '\e9b2'; } /* '' */
+.icon-database-data:before { content: '\e9b3'; } /* '' */
+.icon-multiline-chart:before { content: '\e9b4'; } /* '' */
 .icon-down-open-1:before { content: '\e9b6'; } /* '' */
 .icon-left-open-1:before { content: '\e9b7'; } /* '' */
 .icon-right-open-1:before { content: '\e9b8'; } /* '' */
