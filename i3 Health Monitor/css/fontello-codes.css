@@ -27,3 +27,16 @@
 .icon-ic_tune_24px:before { content: '\e819'; } /* '' */
 .icon-ic_delete_24px:before { content: '\e81a'; } /* '' */
 .icon-ic_apps_24px:before { content: '\e81b'; } /* '' */
+.icon-ic_arrow_upward:before { content: '\e81c'; } /* '' */
+.icon-ic_arrow_downward:before { content: '\e81d'; } /* '' */
+.icon-verification-mark:before { content: '\e81e'; } /* '' */
+.icon-done-all:before { content: '\e81f'; } /* '' */
+.icon-building-company:before { content: '\e820'; } /* '' */
+.icon-filter-alt:before { content: '\e821'; } /* '' */
+.icon-edit:before { content: '\e822'; } /* '' */
+.icon-location-on:before { content: '\e823'; } /* '' */
+.icon-region:before { content: '\e824'; } /* '' */
+.icon-add:before { content: '\e825'; } /* '' */
+.icon-minus:before { content: '\e826'; } /* '' */
+.icon-person_solid_usersingle:before { content: '\e827'; } /* '' */
+.icon-group:before { content: '\e828'; } /* '' */

@@ -8,7 +8,13 @@
 .icon-vpc-1:before { content: '\e806'; } /* '' */
 .icon-vs:before { content: '\e807'; } /* '' */
 .icon-open_in_new:before { content: '\e808'; } /* '' */
+.icon-bar-chart-horizontal:before { content: '\e809'; } /* '' */
 .icon-trash-3:before { content: '\e80a'; } /* '' */
+.icon-chart-line-single:before { content: '\e80b'; } /* '' */
+.icon-lock-outline:before { content: '\e80c'; } /* '' */
+.icon-today:before { content: '\e80d'; } /* '' */
+.icon-trending-down:before { content: '\e80e'; } /* '' */
+.icon-trending-up:before { content: '\e80f'; } /* '' */
 .icon-cog-3:before { content: '\e812'; } /* '' */
 .icon-tools:before { content: '\e813'; } /* '' */
 .icon-share-2:before { content: '\e814'; } /* '' */
@@ -107,6 +113,7 @@
 .icon-insert-chart-outlined:before { content: '\e9b2'; } /* '' */
 .icon-database-data:before { content: '\e9b3'; } /* '' */
 .icon-multiline-chart:before { content: '\e9b4'; } /* '' */
+.icon-area_chart:before { content: '\e9b5'; } /* '' */
 .icon-down-open-1:before { content: '\e9b6'; } /* '' */
 .icon-left-open-1:before { content: '\e9b7'; } /* '' */
 .icon-right-open-1:before { content: '\e9b8'; } /* '' */
