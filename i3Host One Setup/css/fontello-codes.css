@@ -1,5 +1,6 @@
 
 .icon-format-list-bulleted:before { content: '\e800'; } /* '' */
+.icon-edit:before { content: '\e801'; } /* '' */
 .icon-ic_home_24px:before { content: '\e806'; } /* '' */
 .icon-application-stack:before { content: '\e807'; } /* '' */
 .icon-warning:before { content: '\e808'; } /* '' */
