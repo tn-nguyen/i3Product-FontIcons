@@ -1,6 +1,10 @@
 
 .icon-format-list-bulleted:before { content: '\e800'; } /* '' */
 .icon-edit:before { content: '\e801'; } /* '' */
+.icon-nvr:before { content: '\e802'; } /* '' */
+.icon-save-alt-1:before { content: '\e803'; } /* '' */
+.icon-settings:before { content: '\e804'; } /* '' */
+.icon-upgrade:before { content: '\e805'; } /* '' */
 .icon-ic_home_24px:before { content: '\e806'; } /* '' */
 .icon-application-stack:before { content: '\e807'; } /* '' */
 .icon-warning:before { content: '\e808'; } /* '' */
