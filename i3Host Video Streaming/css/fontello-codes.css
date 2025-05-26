@@ -1,6 +1,4 @@
 
-.icon-phone-working-indicator:before { content: '\e800'; } /* '' */
-.icon-new-tab:before { content: '\e801'; } /* '' */
 .icon-new-tab-button:before { content: '\e802'; } /* '' */
 .icon-nfc-near-field-communication:before { content: '\e803'; } /* '' */
 .icon-notifications-bell-button:before { content: '\e804'; } /* '' */
@@ -568,7 +566,6 @@
 .icon-videocam-off:before { content: '\ea36'; } /* '' */
 .icon-camera-alt:before { content: '\ea37'; } /* '' */
 .icon-skip-previous:before { content: '\ea38'; } /* '' */
-.icon-empty:before { content: '\ea39'; } /* '' */
 .icon-folder-open:before { content: '\ea3a'; } /* '' */
 .icon-hd:before { content: '\ea3b'; } /* '' */
 .icon-data-download:before { content: '\ea3c'; } /* '' */
@@ -589,3 +586,4 @@
 .icon-bookmark_add:before { content: '\ea4b'; } /* '' */
 .icon-open-in-new:before { content: '\ea4c'; } /* '' */
 .icon-create-new-folder-stroke:before { content: '\ea4d'; } /* '' */
+.icon-empty:before { content: '\ea4e'; } /* '' */

@@ -1,6 +1,4 @@
 
-.icon-phone-working-indicator { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
-.icon-new-tab { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
 .icon-new-tab-button { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
 .icon-nfc-near-field-communication { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
 .icon-notifications-bell-button { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;'); }
@@ -568,7 +566,6 @@
 .icon-videocam-off { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea36;&nbsp;'); }
 .icon-camera-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea37;&nbsp;'); }
 .icon-skip-previous { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea38;&nbsp;'); }
-.icon-empty { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea39;&nbsp;'); }
 .icon-folder-open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3a;&nbsp;'); }
 .icon-hd { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3b;&nbsp;'); }
 .icon-data-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3c;&nbsp;'); }
@@ -589,3 +586,4 @@
 .icon-bookmark_add { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4b;&nbsp;'); }
 .icon-open-in-new { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4c;&nbsp;'); }
 .icon-create-new-folder-stroke { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4d;&nbsp;'); }
+.icon-empty { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4e;&nbsp;'); }
