@@ -1,6 +1,6 @@
 
-.icon-forward-10:before { content: '\e800'; } /* '' */
-.icon-backward-10:before { content: '\e801'; } /* '' */
+.icon-backward-10:before { content: '\e800'; } /* '' */
+.icon-forward-10:before { content: '\e801'; } /* '' */
 .icon-new-tab-button:before { content: '\e802'; } /* '' */
 .icon-nfc-near-field-communication:before { content: '\e803'; } /* '' */
 .icon-notifications-bell-button:before { content: '\e804'; } /* '' */
