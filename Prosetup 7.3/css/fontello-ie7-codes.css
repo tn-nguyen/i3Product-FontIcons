@@ -565,3 +565,5 @@
 .icon-help-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea33;&nbsp;'); }
 .icon-license-plate { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea34;&nbsp;'); }
 .icon-work_history { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea35;&nbsp;'); }
+.icon-group { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea36;&nbsp;'); }
+.icon-drag-indicator { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea37;&nbsp;'); }
