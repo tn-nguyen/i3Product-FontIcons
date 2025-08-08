@@ -1,58 +1,3 @@
-@font-face {
-  font-family: 'fontello';
-  src: url('../font/fontello.eot?3319827');
-  src: url('../font/fontello.eot?3319827#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff2?3319827') format('woff2'),
-       url('../font/fontello.woff?3319827') format('woff'),
-       url('../font/fontello.ttf?3319827') format('truetype'),
-       url('../font/fontello.svg?3319827#fontello') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
-/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
-/*
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-  @font-face {
-    font-family: 'fontello';
-    src: url('../font/fontello.svg?3319827#fontello') format('svg');
-  }
-}
-*/
-[class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "fontello";
-  font-style: normal;
-  font-weight: normal;
-  speak: never;
-
-  display: inline-block;
-  text-decoration: inherit;
-  width: 1em;
-  margin-right: .2em;
-  text-align: center;
-  /* opacity: .8; */
-
-  /* For safety - reset parent styles, that can break glyph codes*/
-  font-variant: normal;
-  text-transform: none;
-
-  /* fix buttons height, for twitter bootstrap */
-  line-height: 1em;
-
-  /* Animation center compensation - margins should be symmetric */
-  /* remove if not needed */
-  margin-left: .2em;
-
-  /* you can be more comfortable with increased icons size */
-  /* font-size: 120%; */
-
-  /* Font smoothing. That was taken from TWBS */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-
-  /* Uncomment for 3D effect */
-  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
-}
 
 .icon-move-window:before { content: '\e800'; } /* '' */
 .icon-new-tab:before { content: '\e801'; } /* '' */
@@ -599,33 +544,11 @@
 .icon-shape-polygon:before { content: '\ea1e'; } /* '' */
 .icon-shape-square:before { content: '\ea1f'; } /* '' */
 .icon-ic_mid:before { content: '\ea20'; } /* '' */
-.icon-ic_vpn_key_24px:before { content: '\ea21'; } /* '' */
-.icon-settings-gear:before { content: '\ea22'; } /* '' */
-.icon-ic_format_list_bulleted_24px:before { content: '\ea23'; } /* '' */
-.icon-supervised_user_circle-2:before { content: '\ea24'; } /* '' */
-.icon-launch-app:before { content: '\ea25'; } /* '' */
-.icon-l-settings:before { content: '\ea26'; } /* '' */
-.icon-file-text:before { content: '\ea27'; } /* '' */
-.icon-bold-direction:before { content: '\ea28'; } /* '' */
-.icon-ic-health-monitor:before { content: '\ea29'; } /* '' */
-.icon-office:before { content: '\ea2a'; } /* '' */
-.icon-ic-i3server:before { content: '\ea2b'; } /* '' */
-.icon-pie-chart:before { content: '\ea2c'; } /* '' */
-.icon-stopwatch:before { content: '\ea2d'; } /* '' */
-.icon-grid-view:before { content: '\ea2e'; } /* '' */
-.icon-ic-dashboard-layout:before { content: '\ea2f'; } /* '' */
-.icon-ic-ai-logo:before { content: '\ea30'; } /* '' */
-.icon-question_mark_outline:before { content: '\ea31'; } /* '' */
-.icon-empty:before { content: '\ea32'; } /* '' */
-.icon-list-alt:before { content: '\ea33'; } /* '' */
-.icon-settings:before { content: '\ea34'; } /* '' */
-.icon-warning:before { content: '\ea35'; } /* '' */
-.icon-forward_5_fill0_wght400_grad0_opsz48:before { content: '\ea36'; } /* '' */
-.icon-replay_5_fill0_wght400_grad0_opsz48:before { content: '\ea37'; } /* '' */
-.icon-region:before { content: '\ea38'; } /* '' */
-.icon-indeterminate-check-box:before { content: '\ea39'; } /* '' */
-.icon-building-company:before { content: '\ea3a'; } /* '' */
-.icon-layers:before { content: '\ea3b'; } /* '' */
-.icon-insert-chart-outlined:before { content: '\ea3c'; } /* '' */
-.icon-multiline-chart:before { content: '\ea3d'; } /* '' */
-.icon-security-protect:before { content: '\ea3e'; } /* '' */
+.icon-c-warning:before { content: '\ea21'; } /* '' */
+.icon-question_mark_outline:before { content: '\ea22'; } /* '' */
+.icon-warning_outline:before { content: '\ea23'; } /* '' */
+.icon-artificial-intelligence:before { content: '\ea24'; } /* '' */
+.icon-notification_important:before { content: '\ea25'; } /* '' */
+.icon-insert-chart-outlined:before { content: '\ea26'; } /* '' */
+.icon-multiline-chart:before { content: '\ea27'; } /* '' */
+.icon-security-protect:before { content: '\ea28'; } /* '' */
