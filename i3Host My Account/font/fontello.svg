@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg">
-<metadata>Copyright (C) 2024 by original authors @ fontello.com</metadata>
+<metadata>Copyright (C) 2025 by original authors @ fontello.com</metadata>
 <defs>
 <font id="fontello" horiz-adv-x="1000" >
 <font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
@@ -85,6 +85,8 @@
 <glyph glyph-name="shield" unicode="&#xe826;" d="M500-67c-96 25-175 80-237 167s-96 183-96 288v254l333 125 333-125v-254c0-105-33-200-95-288-63-87-142-142-238-167z m0 88c71 21 133 67 179 137 46 67 71 146 71 230v195l-250 92-250-92v-195c0-84 25-163 71-230s108-116 179-137z" horiz-adv-x="1000" />
 
 <glyph glyph-name="content_copy" unicode="&#xe827;" d="M375 100c-25 0-42 8-58 25s-25 33-25 58v500c0 25 8 42 25 59s33 25 58 25h375c25 0 42-9 58-25s25-38 25-59v-500c0-25-8-41-25-58s-33-25-58-25h-375z m0 83h375v500h-375v-500z m-167-250c-20 0-41 9-58 25s-25 34-25 59v583h83v-583h459v-84h-459z m167 250v500-500z" horiz-adv-x="1000" />
+
+<glyph glyph-name="headset-with-microphone" unicode="&#xe828;" d="M208 17c-20 0-41 8-58 25s-25 37-25 58v292c0 50 8 100 29 146s46 83 79 120 75 63 121 80 96 29 146 29 100-9 146-29 83-46 121-80 62-75 79-120 29-96 29-146v-417c0-21-8-42-25-58s-33-25-58-25h-250c-13 0-21 4-29 12-9 8-13 17-13 29s4 21 13 29c8 9 16 13 29 13h250v42h-84c-20 0-41 8-58 25-17 16-25 37-25 58v167c0 25 8 41 25 58 17 17 38 25 58 25h84v42c0 79-29 150-84 208s-125 83-208 83-150-29-204-83-88-129-88-208v-42h84c25 0 41-8 58-25s25-33 25-58v-167c0-21-8-42-25-58s-33-25-58-25h-84z" horiz-adv-x="1000" />
 </font>
 </defs>
 </svg>
