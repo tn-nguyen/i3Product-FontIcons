@@ -582,6 +582,5 @@
 .icon-indeterminate-check-box { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea39;&nbsp;'); }
 .icon-building-company { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3a;&nbsp;'); }
 .icon-layers { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3b;&nbsp;'); }
-.icon-insert-chart-outlined { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3c;&nbsp;'); }
-.icon-multiline-chart { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3d;&nbsp;'); }
-.icon-security-protect { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3e;&nbsp;'); }
+.icon-file-import-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3c;&nbsp;'); }
+.icon-edit_note { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3d;&nbsp;'); }
