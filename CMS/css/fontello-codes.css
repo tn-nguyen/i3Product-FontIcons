@@ -125,6 +125,10 @@
 .icon-right-1:before { content: '\e9bc'; } /* '' */
 .icon-up-1:before { content: '\e9bd'; } /* '' */
 .icon-work_history:before { content: '\e9be'; } /* '' */
+.icon-featured-play-list:before { content: '\e9bf'; } /* '' */
+.icon-person-add:before { content: '\e9c0'; } /* '' */
+.icon-people-alt:before { content: '\e9c1'; } /* '' */
+.icon-lock-open:before { content: '\e9c2'; } /* '' */
 .icon-sort-alt-up:before { content: '\e9c6'; } /* '' */
 .icon-to-end:before { content: '\e9cb'; } /* '' */
 .icon-chart-bar:before { content: '\e9e5'; } /* '' */

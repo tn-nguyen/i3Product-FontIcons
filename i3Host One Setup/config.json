@@ -7,7 +7,7 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "41b727c617521d9fd8ade3bec0f2221c",
+      "uid": "4a1bcfe0ca53790c53b66e2ce818f0db",
       "css": "format-list-bulleted",
       "code": 59392,
       "src": "custom_icons",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "uid": "f20af66da7288e2c90fe6b60d429fbaa",
+      "uid": "0e982671a65ea2b9aebbafff1c5f5708",
       "css": "edit",
       "code": 59393,
       "src": "custom_icons",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "uid": "ffc89ad974c36d6b16a6d17498a213b9",
+      "uid": "fd7b556272720e3ac341861e91485f99",
       "css": "nvr",
       "code": 59394,
       "src": "custom_icons",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "uid": "f661ab942d5a5fdeb113108c79867c4f",
+      "uid": "9ded04a5acb5587ac12defd9d225b4bc",
       "css": "save-alt-1",
       "code": 59395,
       "src": "custom_icons",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "uid": "595290f84a68b4892267eaaed9d8369e",
+      "uid": "c0d751a16dc18e201b78c3f82b53b6b9",
       "css": "settings",
       "code": 59396,
       "src": "custom_icons",
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "uid": "df091cb4eec30cffa854be14b525af0a",
+      "uid": "0a11033abb4b9172e6476fdb6345cfbd",
       "css": "upgrade",
       "code": 59397,
       "src": "custom_icons",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "uid": "cedc645faf8642935016a2e30e8e8dc3",
+      "uid": "d7f0dfb612b8c3b12d9eae099b17e6dc",
       "css": "ic_home_24px",
       "code": 59398,
       "src": "custom_icons",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "uid": "ca65964b476db6f09a4289c33e8521b6",
+      "uid": "463d8c995b0274cee4b1c526ea3be071",
       "css": "application-stack",
       "code": 59399,
       "src": "custom_icons",
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "uid": "708f1bae4c160f492f73e7f50c6aa86f",
+      "uid": "026d95160cea60e6cef0943530f9d88b",
       "css": "warning",
       "code": 59400,
       "src": "custom_icons",
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "uid": "a60f7052816496ce084e1a07a2616f62",
+      "uid": "ada7b75999306b1b5c3897e7483aa3e7",
       "css": "ic_settings_24px",
       "code": 59401,
       "src": "custom_icons",
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "uid": "2679ff5157972d3876dbb10b0c1de9ba",
+      "uid": "4f2781840beef888656a8aa4da9491cf",
       "css": "ic_info_24px",
       "code": 59402,
       "src": "custom_icons",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "uid": "b5c91206840bfbff007d0918d0ff5bf8",
+      "uid": "4334ffdd38b730a23545022085a7df92",
       "css": "ic_arrow_forward_24px",
       "code": 59403,
       "src": "custom_icons",
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "uid": "cd40c055ecda65caf199f8859335bebd",
+      "uid": "196aa3b00325f004ce9ee38db1835c2d",
       "css": "save-alt",
       "code": 59404,
       "src": "custom_icons",
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "uid": "e0c109434fb5697c39ee4fa9f9d04e1b",
+      "uid": "42792a45987fe32310d2597a3587c071",
       "css": "ic_help_outline_24px",
       "code": 59405,
       "src": "custom_icons",
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "uid": "1f92d152a8388dbddc1149ecd0590a3c",
+      "uid": "45146dae82a87c14e1c41e7dec605c77",
       "css": "ic_search_24px",
       "code": 59406,
       "src": "custom_icons",
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "uid": "1ee77c3b16f01bc23673e35a92b227fe",
+      "uid": "683d10bd92b4029152d5d544b8dbb2e5",
       "css": "ic_arrow_drop_down_24px",
       "code": 59407,
       "src": "custom_icons",
@@ -231,7 +231,21 @@
       ]
     },
     {
-      "uid": "19c778f4004eb407413a3e325f9563b8",
+      "uid": "ad2a182edc8966ba4275b998da1b1f20",
+      "css": "headset-with-microphone",
+      "code": 59408,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M208 833C188 833 167 825 150 808S125 771 125 750V458C125 408 133 358 154 312S200 229 233 192 308 129 354 112 450 83 500 83 600 92 646 112 729 158 767 192 829 267 846 312 875 408 875 458V875C875 896 867 917 850 933S817 958 792 958H542C529 958 521 954 513 946 504 938 500 929 500 917S504 896 513 888C521 879 529 875 542 875H792V833H708C688 833 667 825 650 808 633 792 625 771 625 750V583C625 558 633 542 650 525 667 508 688 500 708 500H792V458C792 379 763 308 708 250S583 167 500 167 350 196 296 250 208 379 208 458V500H292C317 500 333 508 350 525S375 558 375 583V750C375 771 367 792 350 808S317 833 292 833H208Z",
+        "width": 1000
+      },
+      "search": [
+        "headset-with-microphone"
+      ]
+    },
+    {
+      "uid": "683be54a67e019909812636f7101e3c3",
       "css": "ic_close_24px",
       "code": 59409,
       "src": "custom_icons",
@@ -245,7 +259,7 @@
       ]
     },
     {
-      "uid": "e7c5d952e5e0c5a5231e3820907d0680",
+      "uid": "7ae48f7368f3a2258d8299c28df4d37f",
       "css": "today",
       "code": 59410,
       "src": "custom_icons",
@@ -259,7 +273,7 @@
       ]
     },
     {
-      "uid": "b77d2c4e1de933d0b1647e307af98c51",
+      "uid": "25f46d0b2ede2ab4824d3a514f57d40f",
       "css": "ic_keyboard_arrow_right_24px",
       "code": 59411,
       "src": "custom_icons",
@@ -273,7 +287,7 @@
       ]
     },
     {
-      "uid": "fa6732c49b00de53d84192a6be215108",
+      "uid": "65b8240386a7a031d8952edd102e44d8",
       "css": "ic_keyboard_arrow_down_24px",
       "code": 59412,
       "src": "custom_icons",
@@ -287,7 +301,7 @@
       ]
     },
     {
-      "uid": "7c601de823e340160cea218f6dae10db",
+      "uid": "d18b7b1666319409f7a867a4383f434d",
       "css": "ic_refresh_24px",
       "code": 59413,
       "src": "custom_icons",
@@ -301,7 +315,7 @@
       ]
     },
     {
-      "uid": "3cb7682f8af5b8bf2437987af249b386",
+      "uid": "813b7262936a4ed5068cb37403885050",
       "css": "ic_keyboard_arrow_up_24px",
       "code": 59414,
       "src": "custom_icons",
@@ -315,7 +329,7 @@
       ]
     },
     {
-      "uid": "a506d36df7bc6a884aa5c210cc394d2a",
+      "uid": "9babb1659878d43f5cf4a9412dc7e6bc",
       "css": "ic_content_copy_24px",
       "code": 59415,
       "src": "custom_icons",
@@ -329,7 +343,7 @@
       ]
     },
     {
-      "uid": "71922676a65b5e22bef30a39cb40196f",
+      "uid": "da0f7b8c174eaf38895c74e4d30328fb",
       "css": "ic_notifications_none_24px",
       "code": 59416,
       "src": "custom_icons",
@@ -343,7 +357,7 @@
       ]
     },
     {
-      "uid": "1ac00f93a40ca6c37624a57181f36463",
+      "uid": "b8258bbdb42029a65b5680e3c52048bb",
       "css": "ic_tune_24px",
       "code": 59417,
       "src": "custom_icons",
@@ -357,7 +371,7 @@
       ]
     },
     {
-      "uid": "48d52e1f5d0765f5d5507bd0a43bc966",
+      "uid": "af1bb2d9ed5307f2179ff1ec90b4e25d",
       "css": "ic_delete_24px",
       "code": 59418,
       "src": "custom_icons",
@@ -371,7 +385,7 @@
       ]
     },
     {
-      "uid": "66360b9b07421d820ca81cf0b0b8858d",
+      "uid": "1fd779e5ad9d76a89ddac0d0fcebb2c2",
       "css": "ic_apps_24px",
       "code": 59419,
       "src": "custom_icons",
@@ -385,7 +399,7 @@
       ]
     },
     {
-      "uid": "be245224c3d6de1aac01d9d4f641ba82",
+      "uid": "9b5903475df0680473a3e938f0590499",
       "css": "ic_arrow_upward",
       "code": 59420,
       "src": "custom_icons",
@@ -399,7 +413,7 @@
       ]
     },
     {
-      "uid": "a7fdc5113ae44f52e1234b87e3671788",
+      "uid": "50b103426238b08686b04c2266241bb4",
       "css": "ic_arrow_downward",
       "code": 59421,
       "src": "custom_icons",
@@ -413,7 +427,7 @@
       ]
     },
     {
-      "uid": "512ec8244136c6412b02952f91755da9",
+      "uid": "11906f0d0297353a1e3360bf9a066818",
       "css": "verification-mark",
       "code": 59422,
       "src": "custom_icons",
@@ -427,7 +441,7 @@
       ]
     },
     {
-      "uid": "a14574713327c7897aebd47d619cb350",
+      "uid": "fd03ac8419101df38bb622711e44aa8d",
       "css": "done-all",
       "code": 59423,
       "src": "custom_icons",
@@ -441,7 +455,7 @@
       ]
     },
     {
-      "uid": "a39f0526e419fba813511d0723b57a86",
+      "uid": "f087914ed1b89faa5e00f418e0f7e20b",
       "css": "server_production",
       "code": 59424,
       "src": "custom_icons",
@@ -455,17 +469,17 @@
       ]
     },
     {
-      "uid": "5768baf9a92c8b3876f4f71ab1ee1e42",
-      "css": "headset-with-microphone",
-      "code": 59408,
+      "uid": "c075b667b0af1565b3f8312aba74ebf6",
+      "css": "filter-alt",
+      "code": 59425,
       "src": "custom_icons",
       "selected": true,
       "svg": {
-        "path": "M208.3 833.3C187.5 833.3 166.7 825 150 808.3S125 770.8 125 750V458.3C125 408.3 133.3 358.3 154.2 312.5S200 229.2 233.3 191.7 308.3 129.2 354.2 112.5 450 83.3 500 83.3 600 91.7 645.8 112.5 729.2 158.3 766.7 191.7 829.2 266.7 845.8 312.5 875 408.3 875 458.3V875C875 895.8 866.7 916.7 850 933.3S816.7 958.3 791.7 958.3H541.7C529.2 958.3 520.8 954.2 512.5 945.8 504.2 937.5 500 929.2 500 916.7S504.2 895.8 512.5 887.5C520.8 879.2 529.2 875 541.7 875H791.7V833.3H708.3C687.5 833.3 666.7 825 650 808.3 633.3 791.7 625 770.8 625 750V583.3C625 558.3 633.3 541.7 650 525 666.7 508.3 687.5 500 708.3 500H791.7V458.3C791.7 379.2 762.5 308.3 708.3 250S583.3 166.7 500 166.7 350 195.8 295.8 250 208.3 379.2 208.3 458.3V500H291.7C316.7 500 333.3 508.3 350 525S375 558.3 375 583.3V750C375 770.8 366.7 791.7 350 808.3S316.7 833.3 291.7 833.3H208.3Z",
+        "path": "M487.5 791.7C475 791.7 466.7 787.5 462.5 779.2 454.2 770.8 450 762.5 450 754.2V512.5L216.7 216.7C208.3 208.3 204.2 195.8 212.5 183.3 216.7 170.8 229.2 166.7 241.7 166.7H783.3C795.8 166.7 808.3 170.8 812.5 183.3 816.7 195.8 816.7 204.2 808.3 216.7L575 512.5V754.2C575 766.7 570.8 775 562.5 779.2 554.2 787.5 545.8 791.7 537.5 791.7H487.5Z",
         "width": 1000
       },
       "search": [
-        "headset-with-microphone"
+        "filter-alt"
       ]
     }
   ]
