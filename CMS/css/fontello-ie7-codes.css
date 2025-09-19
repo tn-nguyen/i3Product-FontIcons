@@ -20,6 +20,7 @@
 .icon-cog-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe812;&nbsp;'); }
 .icon-tools { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe813;&nbsp;'); }
 .icon-share-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe814;&nbsp;'); }
+.icon-insights { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe815;&nbsp;'); }
 .icon-logout-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81a;&nbsp;'); }
 .icon-clock-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81f;&nbsp;'); }
 .icon-hourglass-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe820;&nbsp;'); }
@@ -129,6 +130,9 @@
 .icon-person-add { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c0;&nbsp;'); }
 .icon-people-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c1;&nbsp;'); }
 .icon-lock-open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c2;&nbsp;'); }
+.icon-money-off { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c3;&nbsp;'); }
+.icon-repeated-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c4;&nbsp;'); }
+.icon-supervised-user-circle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c5;&nbsp;'); }
 .icon-sort-alt-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c6;&nbsp;'); }
 .icon-to-end { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cb;&nbsp;'); }
 .icon-chart-bar { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e5;&nbsp;'); }
