@@ -145,6 +145,7 @@
 .icon-repeated-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c4;&nbsp;'); }
 .icon-supervised-user-circle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c5;&nbsp;'); }
 .icon-sort-alt-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c6;&nbsp;'); }
+.icon-filter-list { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c7;&nbsp;'); }
 .icon-to-end { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cb;&nbsp;'); }
 .icon-chart-bar { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e5;&nbsp;'); }
 .icon-mail { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0d;&nbsp;'); }
