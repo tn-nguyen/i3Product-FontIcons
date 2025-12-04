@@ -139,6 +139,7 @@
 .icon-history { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe890;&nbsp;'); }
 .icon-minus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe891;&nbsp;'); }
 .icon-lock_open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe892;&nbsp;'); }
+.icon-sensors_off { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe893;&nbsp;'); }
 .icon-wc-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea03;&nbsp;'); }
 .icon-family { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea04;&nbsp;'); }
 .icon-time-clock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea05;&nbsp;'); }
