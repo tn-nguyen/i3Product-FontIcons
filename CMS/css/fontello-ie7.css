@@ -164,6 +164,8 @@
 .icon-conversion-path { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d6;&nbsp;'); }
 .icon-transaction-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d7;&nbsp;'); }
 .icon-doc-add-all { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d8;&nbsp;'); }
+.icon-more-setting { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d9;&nbsp;'); }
+.icon-star-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9da;&nbsp;'); }
 .icon-chart-bar { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e5;&nbsp;'); }
 .icon-mail { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0d;&nbsp;'); }
 .icon-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea15;&nbsp;'); }
