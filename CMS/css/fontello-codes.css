@@ -149,12 +149,13 @@
 .icon-supervised-user-circle-outline:before { content: '\e9d2'; } /* '' */
 .icon-video-setting:before { content: '\e9d3'; } /* '' */
 .icon-waves:before { content: '\e9d4'; } /* '' */
-.icon-whatshot:before { content: '\e9d5'; } /* '' */
 .icon-conversion-path:before { content: '\e9d6'; } /* '' */
 .icon-transaction-1:before { content: '\e9d7'; } /* '' */
 .icon-doc-add-all:before { content: '\e9d8'; } /* '' */
 .icon-more-setting:before { content: '\e9d9'; } /* '' */
 .icon-star-outline:before { content: '\e9da'; } /* '' */
+.icon-heat-map:before { content: '\e9db'; } /* '' */
+.icon-shopping-cart:before { content: '\e9dc'; } /* '' */
 .icon-chart-bar:before { content: '\e9e5'; } /* '' */
 .icon-mail:before { content: '\ea0d'; } /* '' */
 .icon-user:before { content: '\ea15'; } /* '' */
