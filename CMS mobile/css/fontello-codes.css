@@ -140,6 +140,16 @@
 .icon-minus:before { content: '\e891'; } /* '' */
 .icon-lock_open:before { content: '\e892'; } /* '' */
 .icon-sensors_off:before { content: '\e893'; } /* '' */
+.icon-bar-chart-4-bars:before { content: '\e894'; } /* '' */
+.icon-count-people:before { content: '\e895'; } /* '' */
+.icon-conversion-path:before { content: '\e896'; } /* '' */
+.icon-group:before { content: '\e897'; } /* '' */
+.icon-fall:before { content: '\e898'; } /* '' */
+.icon-id-card:before { content: '\e899'; } /* '' */
+.icon-shopping_cart_checkout:before { content: '\e89a'; } /* '' */
+.icon-shopping-cart:before { content: '\e89b'; } /* '' */
+.icon-waves:before { content: '\e89c'; } /* '' */
+.icon-security-protect:before { content: '\e89d'; } /* '' */
 .icon-wc-2:before { content: '\ea03'; } /* '' */
 .icon-family:before { content: '\ea04'; } /* '' */
 .icon-time-clock:before { content: '\ea05'; } /* '' */
