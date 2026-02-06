@@ -167,6 +167,7 @@
 .icon-link-off { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8a1;&nbsp;'); }
 .icon-play-circle-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8a2;&nbsp;'); }
 .icon-share-social { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8a3;&nbsp;'); }
+.icon-save-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8a4;&nbsp;'); }
 .icon-wc-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea03;&nbsp;'); }
 .icon-family { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea04;&nbsp;'); }
 .icon-time-clock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea05;&nbsp;'); }
