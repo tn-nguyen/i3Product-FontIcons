@@ -157,6 +157,10 @@
 .icon-play-circle-outline:before { content: '\e8a2'; } /* '' */
 .icon-share-social:before { content: '\e8a3'; } /* '' */
 .icon-save-alt:before { content: '\e8a4'; } /* '' */
+.icon-video-streaming:before { content: '\e8a5'; } /* '' */
+.icon-computer_arrow_up:before { content: '\e8a6'; } /* '' */
+.icon-network_node:before { content: '\e8a7'; } /* '' */
+.icon-case-server:before { content: '\e8a8'; } /* '' */
 .icon-wc-2:before { content: '\ea03'; } /* '' */
 .icon-family:before { content: '\ea04'; } /* '' */
 .icon-time-clock:before { content: '\ea05'; } /* '' */
