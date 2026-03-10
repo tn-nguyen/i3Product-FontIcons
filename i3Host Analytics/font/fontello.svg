@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg">
-<metadata>Copyright (C) 2025 by original authors @ fontello.com</metadata>
+<metadata>Copyright (C) 2026 by original authors @ fontello.com</metadata>
 <defs>
 <font id="fontello" horiz-adv-x="1000" >
 <font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
@@ -39,6 +39,8 @@
 <glyph glyph-name="verification-mark" unicode="&#xe80f;" d="M375 175l-146 146c-16 16-42 16-58 0-16-16-16-42 0-58l174-175c17-16 43-16 59 0l442 441c16 16 16 42 0 59-16 16-42 16-58 0l-413-413z" horiz-adv-x="1000" />
 
 <glyph glyph-name="warning" unicode="&#xe810;" d="M186-25h628c64 0 104 70 72 125l-314 542c-32 56-112 56-144 0l-314-542c-32-55 8-125 72-125v0z m314 292c-23 0-42 18-42 41v84c0 23 19 41 42 41 23 0 42-18 42-41v-84c0-23-19-41-42-41z m42-167h-84v83h84v-83z" horiz-adv-x="1000" />
+
+<glyph glyph-name="visibility" unicode="&#xe811;" d="M500 600c158 0 299-89 368-229-69-141-210-229-368-229-158 0-299 88-367 229 68 140 209 229 367 229z m0 83c-208 0-386-129-458-312 72-183 250-313 458-313 208 0 386 130 458 313-72 183-250 312-458 312z m0-208c58 0 104-47 104-104 0-58-46-104-104-104-57 0-104 46-104 104 0 57 47 104 104 104z m0 83c-103 0-187-84-187-187 0-103 84-188 187-188 103 0 188 85 188 188 0 103-85 187-188 187z" horiz-adv-x="1000" />
 </font>
 </defs>
 </svg>
