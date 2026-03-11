@@ -1,9 +1,9 @@
 
+.icon-draw-shape-rectangle:before { content: '\e812'; } /* '' */
 .icon-dashboard:before { content: '\e82e'; } /* '' */
 .icon-access-time:before { content: '\e82f'; } /* '' */
 .icon-done-all:before { content: '\e830'; } /* '' */
 .icon-draw-shape-line:before { content: '\e831'; } /* '' */
-.icon-draw-shape-rectangle:before { content: '\e832'; } /* '' */
 .icon-file-import-download:before { content: '\e833'; } /* '' */
 .icon-location-on:before { content: '\e834'; } /* '' */
 .icon-notifications:before { content: '\e835'; } /* '' */
