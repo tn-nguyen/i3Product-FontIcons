@@ -171,6 +171,10 @@
 .icon-count-people { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9dd;&nbsp;'); }
 .icon-shopping_cart_checkout { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9de;&nbsp;'); }
 .icon-verified-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9df;&nbsp;'); }
+.icon-assignment { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e0;&nbsp;'); }
+.icon-folder-open-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e1;&nbsp;'); }
+.icon-file-import-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e2;&nbsp;'); }
+.icon-history { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e3;&nbsp;'); }
 .icon-chart-bar { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e5;&nbsp;'); }
 .icon-mail { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0d;&nbsp;'); }
 .icon-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea15;&nbsp;'); }

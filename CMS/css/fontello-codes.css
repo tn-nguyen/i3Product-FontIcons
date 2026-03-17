@@ -160,6 +160,10 @@
 .icon-count-people:before { content: '\e9dd'; } /* '' */
 .icon-shopping_cart_checkout:before { content: '\e9de'; } /* '' */
 .icon-verified-user:before { content: '\e9df'; } /* '' */
+.icon-assignment:before { content: '\e9e0'; } /* '' */
+.icon-folder-open-2:before { content: '\e9e1'; } /* '' */
+.icon-file-import-download:before { content: '\e9e2'; } /* '' */
+.icon-history:before { content: '\e9e3'; } /* '' */
 .icon-chart-bar:before { content: '\e9e5'; } /* '' */
 .icon-mail:before { content: '\ea0d'; } /* '' */
 .icon-user:before { content: '\ea15'; } /* '' */
