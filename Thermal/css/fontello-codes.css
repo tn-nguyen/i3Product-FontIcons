@@ -1,9 +1,11 @@
 
 .icon-arrow-drop-down:before { content: '\e800'; } /* '' */
+.icon-line_dot_chart:before { content: '\e801'; } /* '' */
 .icon-draw-shape-rectangle:before { content: '\e812'; } /* '' */
 .icon-check:before { content: '\e813'; } /* '' */
 .icon-filter-list:before { content: '\e814'; } /* '' */
-.icon-refresh-1:before { content: '\e815'; } /* '' */
+.icon-arrow-upward:before { content: '\e817'; } /* '' */
+.icon-arrow-downward:before { content: '\e818'; } /* '' */
 .icon-dashboard:before { content: '\e82e'; } /* '' */
 .icon-access-time:before { content: '\e82f'; } /* '' */
 .icon-done-all:before { content: '\e830'; } /* '' */
