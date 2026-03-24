@@ -34,6 +34,7 @@
 .icon-insights { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe815;&nbsp;'); }
 .icon-settings-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe816;&nbsp;'); }
 .icon-ai-generate { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe817;&nbsp;'); }
+.icon-volume-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe818;&nbsp;'); }
 .icon-logout-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81a;&nbsp;'); }
 .icon-clock-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81f;&nbsp;'); }
 .icon-hourglass-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe820;&nbsp;'); }
@@ -175,7 +176,9 @@
 .icon-folder-open-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e1;&nbsp;'); }
 .icon-file-import-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e2;&nbsp;'); }
 .icon-history { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e3;&nbsp;'); }
+.icon-stop { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e4;&nbsp;'); }
 .icon-chart-bar { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e5;&nbsp;'); }
+.icon-keyboard-voice { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e6;&nbsp;'); }
 .icon-mail { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0d;&nbsp;'); }
 .icon-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea15;&nbsp;'); }
 .icon-video { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea19;&nbsp;'); }
