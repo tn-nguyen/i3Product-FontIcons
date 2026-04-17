@@ -1,11 +1,16 @@
 
 .icon-arrow-drop-down:before { content: '\e800'; } /* '' */
 .icon-line_dot_chart:before { content: '\e801'; } /* '' */
+.icon-location-on-filled:before { content: '\e802'; } /* '' */
 .icon-draw-shape-rectangle:before { content: '\e812'; } /* '' */
 .icon-check:before { content: '\e813'; } /* '' */
 .icon-filter-list:before { content: '\e814'; } /* '' */
 .icon-arrow-upward:before { content: '\e817'; } /* '' */
 .icon-arrow-downward:before { content: '\e818'; } /* '' */
+.icon-nvr:before { content: '\e819'; } /* '' */
+.icon-chevron-right:before { content: '\e81a'; } /* '' */
+.icon-arrow-drop-down-1:before { content: '\e81b'; } /* '' */
+.icon-expand-more:before { content: '\e81c'; } /* '' */
 .icon-dashboard:before { content: '\e82e'; } /* '' */
 .icon-access-time:before { content: '\e82f'; } /* '' */
 .icon-done-all:before { content: '\e830'; } /* '' */
