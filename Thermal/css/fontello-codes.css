@@ -11,6 +11,9 @@
 .icon-chevron-right:before { content: '\e81a'; } /* '' */
 .icon-arrow-drop-down-1:before { content: '\e81b'; } /* '' */
 .icon-expand-more:before { content: '\e81c'; } /* '' */
+.icon-verification-mark:before { content: '\e81d'; } /* '' */
+.icon-warning-1:before { content: '\e81e'; } /* '' */
+.icon-today:before { content: '\e81f'; } /* '' */
 .icon-dashboard:before { content: '\e82e'; } /* '' */
 .icon-access-time:before { content: '\e82f'; } /* '' */
 .icon-done-all:before { content: '\e830'; } /* '' */
