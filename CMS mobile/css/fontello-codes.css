@@ -164,6 +164,13 @@
 .icon-person_stroke:before { content: '\e8a9'; } /* '' */
 .icon-content-copy:before { content: '\e8aa'; } /* '' */
 .icon-person:before { content: '\e8ab'; } /* '' */
+.icon-volume-up:before { content: '\e8ac'; } /* '' */
+.icon-content-copy-1:before { content: '\e8ad'; } /* '' */
+.icon-pause-1:before { content: '\e8ae'; } /* '' */
+.icon-keyboard-voice:before { content: '\e8af'; } /* '' */
+.icon-stop:before { content: '\e8b0'; } /* '' */
+.icon-ai-icon:before { content: '\e8b1'; } /* '' */
+.icon-arrow-downward:before { content: '\e8b2'; } /* '' */
 .icon-wc-2:before { content: '\ea03'; } /* '' */
 .icon-family:before { content: '\ea04'; } /* '' */
 .icon-time-clock:before { content: '\ea05'; } /* '' */
