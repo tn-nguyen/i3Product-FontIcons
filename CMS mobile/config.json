@@ -7,7 +7,7 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "26e40e135139a6141b279a9e0f1100c3",
+      "uid": "267eceda7445b08d00629b6be0f2fe06",
       "css": "change-backup-storage",
       "code": 59392,
       "src": "custom_icons",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "uid": "3fb948ef5b34ce83f6ed65399e0e4078",
+      "uid": "41b6cf29d7696d42845ed7b79610a40b",
       "css": "check-symbol",
       "code": 59393,
       "src": "custom_icons",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "uid": "dc39dd8eb5e6087f8311665fa908816d",
+      "uid": "d5c93486cde899b9cfe393f5436f571f",
       "css": "clear-button",
       "code": 59394,
       "src": "custom_icons",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "uid": "f43c200f02c4a0a911e27b5243dca26a",
+      "uid": "485ad3a10696295055b983f757232e1d",
       "css": "clock-with-white-face",
       "code": 59395,
       "src": "custom_icons",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "uid": "6fc85da4b9f3ec56a069bde01497ba98",
+      "uid": "dba7c559783c7bfc6ecc8b9181bd7d64",
       "css": "create-new-pencil-button",
       "code": 59396,
       "src": "custom_icons",
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "uid": "41a19453a7943de677263c21747cf7b8",
+      "uid": "9991db41a1e44651e5c051614924a05a",
       "css": "double-tick-indicator",
       "code": 59397,
       "src": "custom_icons",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "uid": "3a50969fd4e7cf3f87452c7c4504e32f",
+      "uid": "dbeb439555157f7567b93eb0c926be2c",
       "css": "earth-grid-select-language-button",
       "code": 59398,
       "src": "custom_icons",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "uid": "075758059906c326d6ea282cf74f17b7",
+      "uid": "5c93c6d3189be3ef94389fff9cb8ec07",
       "css": "ellipsis",
       "code": 59399,
       "src": "custom_icons",
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "uid": "dab4e6c01f1ead6299ee7ed1dbe0492a",
+      "uid": "51806af030e5c370eb0ccc7fd271c4c0",
       "css": "expand-arrow",
       "code": 59400,
       "src": "custom_icons",
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "uid": "080382a9e215ebe4a3f7bd92a0f2897b",
+      "uid": "f0c0303b28605dd4c1eb6633a638c624",
       "css": "expand-button",
       "code": 59401,
       "src": "custom_icons",
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "uid": "34d702d1aebf0b25a4948df5f1251e8e",
+      "uid": "67fff02080595d55193a705b711cedc3",
       "css": "filter",
       "code": 59402,
       "src": "custom_icons",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "uid": "63d84a216fcc9d1c0b896841abf40a50",
+      "uid": "702f8b032db44bf224bc8ddfda185f32",
       "css": "go-back-left-arrow",
       "code": 59403,
       "src": "custom_icons",
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "uid": "524e51051867906e48f1f91619523de0",
+      "uid": "436351f8f7cde98eba0e90fd09d7e624",
       "css": "hdd-format",
       "code": 59404,
       "src": "custom_icons",
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "uid": "f57528393d4b013606d4a8ea2b63f40d",
+      "uid": "d2a07713752768a85924a55bb2841f79",
       "css": "health",
       "code": 59405,
       "src": "custom_icons",
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "uid": "f3212118533c5157026b8dc7b4875d54",
+      "uid": "1457e965124e47f8f4e544eec0eee80a",
       "css": "icon-dvr",
       "code": 59406,
       "src": "custom_icons",
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "uid": "906c6ec1fa7a10088c88acddc26a7c93",
+      "uid": "7f122ea9f9d05c9bfde908ff2cdbc3d4",
       "css": "insufficient-disk-space",
       "code": 59407,
       "src": "custom_icons",
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "uid": "1694e4b038b7d233f25fa5a115cca447",
+      "uid": "43daccab98f83db4aa5e614a24a70da1",
       "css": "keyboard-left-arrow-button",
       "code": 59408,
       "src": "custom_icons",
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "uid": "087709be4bfad168c6f73ccbfc8a98fc",
+      "uid": "70a0d97994fbb7aaf6f8463be7f9fdb4",
       "css": "keyboard-right-arrow-button",
       "code": 59409,
       "src": "custom_icons",
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "uid": "acc077916aa696aa5255fd01f4156d63",
+      "uid": "7e319655fe184e530a12379d59fd95ae",
       "css": "out-fullscreen",
       "code": 59410,
       "src": "custom_icons",
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "uid": "93d8d8bba9f2622c77d146d4bedfeea0",
+      "uid": "6a83ae9838298f75d96cf5ce716e8eb0",
       "css": "locked-padlock",
       "code": 59411,
       "src": "custom_icons",
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "uid": "6998bc0adbfdbdee57aa4ea3f8bbe59f",
+      "uid": "fac85796e97c0c1a5152b4c5952030b9",
       "css": "logout",
       "code": 59412,
       "src": "custom_icons",
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "uid": "1645f15f4b32fc62fd1adc8c7d2e4605",
+      "uid": "9d95f31f53bdbe6484700ae8c8a1cad9",
       "css": "menu-button",
       "code": 59413,
       "src": "custom_icons",
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "uid": "5b26187ce29c843de681dec986913a9e",
+      "uid": "65e1c504aef126d910609d26775d9d15",
       "css": "less-than-90",
       "code": 59414,
       "src": "custom_icons",
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "uid": "057e1047d1a8518feea7eb15fdc19bb1",
+      "uid": "7234e5f715bca418edee2bcc0a304108",
       "css": "notifications-button",
       "code": 59415,
       "src": "custom_icons",
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "uid": "905bb3012c5b1f8eb43dda10dd25caa4",
+      "uid": "961b670a2e56e0017503a47fa2826673",
       "css": "not-recording",
       "code": 59416,
       "src": "custom_icons",
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "uid": "9f8c71017114419796c756b492ae7630",
+      "uid": "5edec3eb2aff486d04b244d41eca9088",
       "css": "nvr-offline",
       "code": 59417,
       "src": "custom_icons",
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "uid": "94bc9a10635f972c6689363c46605cea",
+      "uid": "04c0bf2a6be522b363c169f9eeae48f3",
       "css": "partition-dropped",
       "code": 59418,
       "src": "custom_icons",
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "uid": "c8fd6c7edb918be775c4c110ae8e52f7",
+      "uid": "309c771b07dec4fb7ab7c695c344b194",
       "css": "polocies",
       "code": 59419,
       "src": "custom_icons",
@@ -399,7 +399,7 @@
       ]
     },
     {
-      "uid": "e23056f852a3172fb19b9f735f57a346",
+      "uid": "c59b68006b363492227a70a333e586b4",
       "css": "pos",
       "code": 59420,
       "src": "custom_icons",
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "uid": "f2c3520765dde64e2a563d31f972c47b",
+      "uid": "fe8bcff2015f52f5f6000c831fd77bcb",
       "css": "power-connection-indicator",
       "code": 59421,
       "src": "custom_icons",
@@ -427,7 +427,7 @@
       ]
     },
     {
-      "uid": "28381f0199759860894c542acfd29ef1",
+      "uid": "c90260301c6061dcabbd9977929cfdb6",
       "css": "round-account-button-with-user-inside",
       "code": 59422,
       "src": "custom_icons",
@@ -441,7 +441,7 @@
       ]
     },
     {
-      "uid": "8c9ae254f4fd4608a64dca490b02ccf5",
+      "uid": "73975918f8492f6688e46a9866b89108",
       "css": "round-info-button",
       "code": 59423,
       "src": "custom_icons",
@@ -455,7 +455,7 @@
       ]
     },
     {
-      "uid": "3ed0b3a7a108e77ec9bf56d0b732a51b",
+      "uid": "fe92a97c15d01c9dff7245f8da2cd01b",
       "css": "round-error-symbol",
       "code": 59424,
       "src": "custom_icons",
@@ -469,7 +469,7 @@
       ]
     },
     {
-      "uid": "1382d73ccaef9c3adda61cf04d4df1bb",
+      "uid": "586ab73ca33256e7ce2901d16bf11bfc",
       "css": "rubbish-bin-delete-button",
       "code": 59425,
       "src": "custom_icons",
@@ -483,7 +483,7 @@
       ]
     },
     {
-      "uid": "456c0709edc7ec40637202cf09efea2c",
+      "uid": "1ef2231902fcbcae39d51d63f3ce299d",
       "css": "searching-magnifying-glass",
       "code": 59426,
       "src": "custom_icons",
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "uid": "dd5fed30dae86248e6d2bfb3ea8d8d99",
+      "uid": "094d56c3212bcd0e5ee66acdca18da6e",
       "css": "sites",
       "code": 59427,
       "src": "custom_icons",
@@ -511,7 +511,7 @@
       ]
     },
     {
-      "uid": "031efa958f80208c0cbf7b2b23cc8337",
+      "uid": "bc9fc9755b862c46978ab467c6c86287",
       "css": "smart-er",
       "code": 59428,
       "src": "custom_icons",
@@ -525,7 +525,7 @@
       ]
     },
     {
-      "uid": "ad15b2f2e4bb27355e51792c01993ff7",
+      "uid": "103794d948e5069b345b09749710096e",
       "css": "switch-to-full-screen-button",
       "code": 59429,
       "src": "custom_icons",
@@ -539,7 +539,7 @@
       ]
     },
     {
-      "uid": "86daac92738152182bc636590cb0f149",
+      "uid": "c7ad5da22d0250d089d832354d7043ae",
       "css": "tack-save-button",
       "code": 59430,
       "src": "custom_icons",
@@ -553,7 +553,7 @@
       ]
     },
     {
-      "uid": "7f9d3875db9d95c545f36ca23ccdb697",
+      "uid": "0f6f0ce91e842dad47f8015b15362539",
       "css": "turn-video-off-button",
       "code": 59431,
       "src": "custom_icons",
@@ -567,7 +567,7 @@
       ]
     },
     {
-      "uid": "856b0ff8201cd28611efdfc990e50bf8",
+      "uid": "4d69e774bcd0a8211c5b8a8194bb478f",
       "css": "turn-visibility-off-button",
       "code": 59432,
       "src": "custom_icons",
@@ -581,7 +581,7 @@
       ]
     },
     {
-      "uid": "23893de5e817e45b518443d2bc2e2d8b",
+      "uid": "bc8eaefa57ab739a50d8ae9561c34dad",
       "css": "two-rows-and-three-columns-layout",
       "code": 59433,
       "src": "custom_icons",
@@ -595,7 +595,7 @@
       ]
     },
     {
-      "uid": "2df1a6a4d241930a07d659cf122b5be5",
+      "uid": "689679230fe6fe0b28276cd6a7e457c8",
       "css": "user-shape",
       "code": 59434,
       "src": "custom_icons",
@@ -609,7 +609,7 @@
       ]
     },
     {
-      "uid": "767530bdf8ddfbccc76bb66a7a67e852",
+      "uid": "2dd95128b62d2c8d80f9273fdf117408",
       "css": "videocam-filled-tool",
       "code": 59435,
       "src": "custom_icons",
@@ -623,7 +623,7 @@
       ]
     },
     {
-      "uid": "be8b88b1177c89d197745e1557527f55",
+      "uid": "7b96e3fb78ed51dbfd74049176d94ef6",
       "css": "users-social-symbol",
       "code": 59436,
       "src": "custom_icons",
@@ -637,7 +637,7 @@
       ]
     },
     {
-      "uid": "6e345af1c0c098c1db2078b7afb2ebdd",
+      "uid": "0fc32da2a713e6f0aa804c42f68e3caa",
       "css": "video-loss",
       "code": 59437,
       "src": "custom_icons",
@@ -651,7 +651,7 @@
       ]
     },
     {
-      "uid": "74e1f10753dcc987dc36c8c97b14e8cf",
+      "uid": "e97b46a7399c98381e19bc7a473763d5",
       "css": "view-list-button",
       "code": 59438,
       "src": "custom_icons",
@@ -665,7 +665,7 @@
       ]
     },
     {
-      "uid": "aa08d22c209af8ee846987b3a9552dc3",
+      "uid": "edf47192fe48640d033f53dc77cdf2d7",
       "css": "bi-grey-icon",
       "code": 59439,
       "src": "custom_icons",
@@ -679,7 +679,7 @@
       ]
     },
     {
-      "uid": "5292e0a83f2ec85c06411b8e91418e96",
+      "uid": "12fe18ce40368cb9113b0aebc1edc7b3",
       "css": "fewer-xdays",
       "code": 59440,
       "src": "custom_icons",
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "uid": "56bd78b078c8293aaa141b3f8339ea88",
+      "uid": "32296de5a58d8473aa7368d4aad5540f",
       "css": "ic_public_black_48px",
       "code": 59441,
       "src": "custom_icons",
@@ -707,7 +707,7 @@
       ]
     },
     {
-      "uid": "933d833f602caf21d0aa21af96e395c5",
+      "uid": "c96bed46713c85881f6bef5e7bb0cb74",
       "css": "ic_flag_black_48px",
       "code": 59442,
       "src": "custom_icons",
@@ -721,7 +721,7 @@
       ]
     },
     {
-      "uid": "fbb01ece4aeb37e78a688ac837816826",
+      "uid": "b44376aa4d12a4e084441c94e329039f",
       "css": "show-apps-button",
       "code": 59443,
       "src": "custom_icons",
@@ -735,7 +735,7 @@
       ]
     },
     {
-      "uid": "e7f402587c8aad63f1e8e7dc32f2407e",
+      "uid": "af0fd1f1d767ae54e27714949c80cef3",
       "css": "rounded-block-sign",
       "code": 59444,
       "src": "custom_icons",
@@ -749,7 +749,7 @@
       ]
     },
     {
-      "uid": "c7d3b007bed21dc517bc31d8fc99ae80",
+      "uid": "db7cb237cb7d25ccbe8e4c9fce0f1620",
       "css": "site-multiple",
       "code": 59445,
       "src": "custom_icons",
@@ -763,7 +763,7 @@
       ]
     },
     {
-      "uid": "357e25501c69fb3ab63cf1de60cb09d7",
+      "uid": "5f15a36f99877eef6869064e8e740475",
       "css": "camera",
       "code": 59446,
       "src": "custom_icons",
@@ -777,7 +777,7 @@
       ]
     },
     {
-      "uid": "9d6c7eb29f29468c9069626abcf095b4",
+      "uid": "c7808e997bea16d0c79db45ad5caa215",
       "css": "search-advanced",
       "code": 59447,
       "src": "custom_icons",
@@ -791,7 +791,7 @@
       ]
     },
     {
-      "uid": "9fc6bfba0a88b65c6e254673b0cdad11",
+      "uid": "8e8e9a6aec7391afd9988861ef17e991",
       "css": "ic_skip_next",
       "code": 59448,
       "src": "custom_icons",
@@ -805,7 +805,7 @@
       ]
     },
     {
-      "uid": "12a9687f2cdfa47827dbc5d837f4c484",
+      "uid": "fbcff0d7888114f179b359323ab51d50",
       "css": "ic_skip_previous",
       "code": 59449,
       "src": "custom_icons",
@@ -819,7 +819,7 @@
       ]
     },
     {
-      "uid": "a23f347ca8ca723d29e1a5a81f2e94b7",
+      "uid": "7af7a53130032339aecb2377e6ab142e",
       "css": "no-door",
       "code": 59450,
       "src": "custom_icons",
@@ -833,7 +833,7 @@
       ]
     },
     {
-      "uid": "54759b2a6d0a9157390bcdf82ce959a5",
+      "uid": "7152595ec2d0ef8a0e77e3f5fff7871d",
       "css": "no-pos",
       "code": 59451,
       "src": "custom_icons",
@@ -847,7 +847,7 @@
       ]
     },
     {
-      "uid": "69498cd4dfad634ef292b5ba49014998",
+      "uid": "4f08ddf7e81c761afce749c5e025023d",
       "css": "sensor",
       "code": 59452,
       "src": "custom_icons",
@@ -861,7 +861,7 @@
       ]
     },
     {
-      "uid": "87ee974f109cbda73ba8a085ad655bad",
+      "uid": "4097e220e90f82bce65b6fac5a90e088",
       "css": "va",
       "code": 59453,
       "src": "custom_icons",
@@ -875,7 +875,7 @@
       ]
     },
     {
-      "uid": "5b478fcf2549484a56fbd8a18caba7c4",
+      "uid": "77c5b3181458f950e1349e4368f751a7",
       "css": "download-video",
       "code": 59454,
       "src": "custom_icons",
@@ -889,7 +889,7 @@
       ]
     },
     {
-      "uid": "31b36f1a1b25a84f671e81754d650e6f",
+      "uid": "f9d978af20a3899d37f7f6059d22c36a",
       "css": "baseline-check_circle",
       "code": 59455,
       "src": "custom_icons",
@@ -903,7 +903,7 @@
       ]
     },
     {
-      "uid": "8b4a11280c483ccde51150b69ff5ecba",
+      "uid": "fd7ec1e4b0a6e626d3247bac46632544",
       "css": "added",
       "code": 59456,
       "src": "custom_icons",
@@ -917,7 +917,7 @@
       ]
     },
     {
-      "uid": "3eea00054fa4af6f06433635b8a5d81c",
+      "uid": "2b2849cd5c68658eb122c00ffc6036d2",
       "css": "close",
       "code": 59457,
       "src": "custom_icons",
@@ -931,7 +931,7 @@
       ]
     },
     {
-      "uid": "f0823a2f77d580a4032d5d40bbab392b",
+      "uid": "a2cc843556f5260b0126d86ceaaf0e96",
       "css": "search-more",
       "code": 59458,
       "src": "custom_icons",
@@ -945,7 +945,7 @@
       ]
     },
     {
-      "uid": "71b84132ab73b008d2050ee0d85224f7",
+      "uid": "6322d664e1917fdda5ff6306eea41596",
       "css": "arrow-to",
       "code": 59459,
       "src": "custom_icons",
@@ -959,7 +959,7 @@
       ]
     },
     {
-      "uid": "dd601043a51cd1a133e58f8a7b0d95f8",
+      "uid": "4fa866f94cb9d3290f49499508e6f636",
       "css": "ptz",
       "code": 59460,
       "src": "custom_icons",
@@ -973,7 +973,7 @@
       ]
     },
     {
-      "uid": "071dcb1270952fe0870b535281e4495d",
+      "uid": "ebc944bcead75a6fd1475fe6188978a6",
       "css": "play",
       "code": 59461,
       "src": "custom_icons",
@@ -987,7 +987,7 @@
       ]
     },
     {
-      "uid": "5f918d67e7e0a62105ea09953b5662ce",
+      "uid": "8cadf13408a8e723daa768cd7e9c85c3",
       "css": "pause",
       "code": 59462,
       "src": "custom_icons",
@@ -1001,7 +1001,7 @@
       ]
     },
     {
-      "uid": "755da5f85f6081594710c3fa0b171493",
+      "uid": "cd48babdc65391cd5aed0d132ec0006b",
       "css": "dewarp",
       "code": 59463,
       "src": "custom_icons",
@@ -1015,7 +1015,7 @@
       ]
     },
     {
-      "uid": "2cbe86eb55000f3ab1af467d4fc2d6d5",
+      "uid": "ad5a209820120a4e96e1c623026c098a",
       "css": "headset-1",
       "code": 59464,
       "src": "custom_icons",
@@ -1029,7 +1029,7 @@
       ]
     },
     {
-      "uid": "4d87d1df46dcca7ec21a225b2d98800f",
+      "uid": "5fee8706b9a434a5ad514c48c0931763",
       "css": "cloud-stream",
       "code": 59469,
       "src": "custom_icons",
@@ -1043,7 +1043,7 @@
       ]
     },
     {
-      "uid": "0e11b5947c81837ca71ec40c971ae66e",
+      "uid": "5964b44e4b8e079833953fbb48cba958",
       "css": "ic-temperature",
       "code": 59470,
       "src": "custom_icons",
@@ -1057,7 +1057,7 @@
       ]
     },
     {
-      "uid": "7cb79f3f93130077e8ad02e12539b156",
+      "uid": "18ea91f53a22859d1ab508c695484e78",
       "css": "ic-temperature-32px",
       "code": 59471,
       "src": "custom_icons",
@@ -1071,7 +1071,7 @@
       ]
     },
     {
-      "uid": "e7f21300ad62d46573a2c5199ad821de",
+      "uid": "d13bb0cdf996bed95c99fc289951401b",
       "css": "social-distancing-group",
       "code": 59472,
       "src": "custom_icons",
@@ -1085,7 +1085,7 @@
       ]
     },
     {
-      "uid": "4d0b790252b33b21168579c7e44d8b61",
+      "uid": "2988b79adbfc921d6c18c6995c0f85bd",
       "css": "ic_home_24px",
       "code": 59473,
       "src": "custom_icons",
@@ -1099,7 +1099,7 @@
       ]
     },
     {
-      "uid": "d5b25a7cec5c7f691ad76d1787a53c1c",
+      "uid": "39c61af3913c734889141e5e06239134",
       "css": "ic_settings_24px",
       "code": 59474,
       "src": "custom_icons",
@@ -1113,7 +1113,7 @@
       ]
     },
     {
-      "uid": "5ece27783a07db85bb5850b6a83b66f7",
+      "uid": "a8728b42cca7e0acaf830192f3d83389",
       "css": "grid-view-4",
       "code": 59475,
       "src": "custom_icons",
@@ -1127,7 +1127,7 @@
       ]
     },
     {
-      "uid": "b435302977f9af91411d545bdd79c84d",
+      "uid": "002f557a024c4c3a4a4e4440ac8f99c0",
       "css": "grid-view-9",
       "code": 59476,
       "src": "custom_icons",
@@ -1141,7 +1141,7 @@
       ]
     },
     {
-      "uid": "c381afdce288b5a7de6d855c382ad4dc",
+      "uid": "e18349a1ffe4909331b410b294cad524",
       "css": "grid-view-16",
       "code": 59477,
       "src": "custom_icons",
@@ -1155,7 +1155,7 @@
       ]
     },
     {
-      "uid": "eaf0d09c4996293e13760afa84b0d8b6",
+      "uid": "02562d18610bd9a836dd8717d7ecc34c",
       "css": "add-cam",
       "code": 59478,
       "src": "custom_icons",
@@ -1169,7 +1169,7 @@
       ]
     },
     {
-      "uid": "2c72e6031f717f58d0b443a36f4ecc75",
+      "uid": "c6f5c90b9e605769615617feb65f173a",
       "css": "search_solid_advancedfind",
       "code": 59479,
       "src": "custom_icons",
@@ -1183,7 +1183,7 @@
       ]
     },
     {
-      "uid": "64ac0a40f16407bd7c36d19e3d12b898",
+      "uid": "9425063e0516a06820e66d13b895c38c",
       "css": "i-add",
       "code": 59480,
       "src": "custom_icons",
@@ -1197,7 +1197,7 @@
       ]
     },
     {
-      "uid": "67e6b43f952a1678876769f2921684ac",
+      "uid": "5b123182bb69a4486967bda0863fd6f2",
       "css": "solid_region",
       "code": 59481,
       "src": "custom_icons",
@@ -1211,7 +1211,7 @@
       ]
     },
     {
-      "uid": "8bef952ad075098103d999e462c476dd",
+      "uid": "47498ed1f4a3196f2b04f788841ca058",
       "css": "ic_remove_red_eye_24px",
       "code": 59482,
       "src": "custom_icons",
@@ -1225,7 +1225,7 @@
       ]
     },
     {
-      "uid": "070efab1f43b06a64706689f853b6fc9",
+      "uid": "1faeba10db2390374259ea1b47e72849",
       "css": "o-warning",
       "code": 59483,
       "src": "custom_icons",
@@ -1239,7 +1239,7 @@
       ]
     },
     {
-      "uid": "17eab10e9ee792f8356cdf752d926d86",
+      "uid": "6c8331ea9bf918c49592a812701c8788",
       "css": "warning-sign",
       "code": 59484,
       "src": "custom_icons",
@@ -1253,7 +1253,7 @@
       ]
     },
     {
-      "uid": "b6c6b9a9aef30b364d6d31795742e404",
+      "uid": "cdecf8c808d2b1bee12a454a253236e2",
       "css": "stretch-01",
       "code": 59485,
       "src": "custom_icons",
@@ -1267,7 +1267,7 @@
       ]
     },
     {
-      "uid": "0853690cd81c607c80dc139635bb5f20",
+      "uid": "35719e74f01ef9bde74f43dd8de854e4",
       "css": "download",
       "code": 59486,
       "src": "custom_icons",
@@ -1281,7 +1281,7 @@
       ]
     },
     {
-      "uid": "85f323d149938ba45205d3ff6de46b73",
+      "uid": "787793a279adea3c4975e87e11594f00",
       "css": "bar-chart",
       "code": 59487,
       "src": "custom_icons",
@@ -1295,7 +1295,7 @@
       ]
     },
     {
-      "uid": "5ecbd4e1f4d144ddef0b73fe8ab28570",
+      "uid": "a91e3cdeec15cf1b431a852e0efccd83",
       "css": "directions-car",
       "code": 59489,
       "src": "custom_icons",
@@ -1309,7 +1309,7 @@
       ]
     },
     {
-      "uid": "7135293fff83bdc6a9c0f7d5f8f2e253",
+      "uid": "c0262d17c932e1d79764615e7c0f21f6",
       "css": "cloud-file",
       "code": 59490,
       "src": "custom_icons",
@@ -1323,7 +1323,7 @@
       ]
     },
     {
-      "uid": "29c45ddbca56da30276b73e4bfd0e5c4",
+      "uid": "cad64a0269bff1df815aaba98a1034c5",
       "css": "date-range",
       "code": 59491,
       "src": "custom_icons",
@@ -1337,7 +1337,7 @@
       ]
     },
     {
-      "uid": "fb3a9078244003dd983fefbcb1d188ce",
+      "uid": "41a6bf788db12bcc57521942c75554bc",
       "css": "home",
       "code": 59492,
       "src": "custom_icons",
@@ -1351,7 +1351,7 @@
       ]
     },
     {
-      "uid": "86b38c33844d45eefaa80eb7c6f3e746",
+      "uid": "448fa797865a988db8a5a96acebb757d",
       "css": "message",
       "code": 59493,
       "src": "custom_icons",
@@ -1365,7 +1365,7 @@
       ]
     },
     {
-      "uid": "59c60141f062a9b49f7b5a6de8f014c5",
+      "uid": "b423d172d3919db9538e681e919a363c",
       "css": "money",
       "code": 59494,
       "src": "custom_icons",
@@ -1379,7 +1379,7 @@
       ]
     },
     {
-      "uid": "61e6e9842162443c4cd0f1d07be06ead",
+      "uid": "f775e600be51d7272cb49da3e8ffb352",
       "css": "notifications",
       "code": 59495,
       "src": "custom_icons",
@@ -1393,7 +1393,7 @@
       ]
     },
     {
-      "uid": "e416fac8d075301b7c2c8f0a93b2de82",
+      "uid": "fd40e4c2c70e07688214b3b292c610cc",
       "css": "pin",
       "code": 59496,
       "src": "custom_icons",
@@ -1407,7 +1407,7 @@
       ]
     },
     {
-      "uid": "06299c56190ea6972a301985b19708f1",
+      "uid": "45a8aac158c2b8fc17acfaea69544780",
       "css": "report",
       "code": 59497,
       "src": "custom_icons",
@@ -1421,7 +1421,7 @@
       ]
     },
     {
-      "uid": "7cd464102933e1acef423ec971d899d0",
+      "uid": "006236fc11645872e245f4f0a41580ea",
       "css": "settings",
       "code": 59498,
       "src": "custom_icons",
@@ -1435,7 +1435,7 @@
       ]
     },
     {
-      "uid": "1100627b47197b7ea82e5655b8f72f98",
+      "uid": "e1a64a6e9106bc3428b608f81e14f146",
       "css": "share",
       "code": 59499,
       "src": "custom_icons",
@@ -1449,7 +1449,7 @@
       ]
     },
     {
-      "uid": "83c90c947f22389a43658b5c00ee7f9c",
+      "uid": "42ddc7530e983ff64504667cfaa94146",
       "css": "person-pin",
       "code": 59500,
       "src": "custom_icons",
@@ -1463,7 +1463,7 @@
       ]
     },
     {
-      "uid": "b7b43825d4cfe20c7a5061356c363a65",
+      "uid": "c7f09a4b7f6b461acf3db0579e15eb16",
       "css": "videocam",
       "code": 59501,
       "src": "custom_icons",
@@ -1477,7 +1477,7 @@
       ]
     },
     {
-      "uid": "6c96a3e3fdc1f17778085acffe8264b1",
+      "uid": "eab883d99de855aa52dc06f101be147e",
       "css": "sort",
       "code": 59502,
       "src": "custom_icons",
@@ -1491,7 +1491,7 @@
       ]
     },
     {
-      "uid": "81050f4d3a6e48af27118f4dad296766",
+      "uid": "743d905b573927c03b8563073e5fc612",
       "css": "arrow-dropdown",
       "code": 59503,
       "src": "custom_icons",
@@ -1505,7 +1505,7 @@
       ]
     },
     {
-      "uid": "399432849fd5f0a76ef8096dbc629119",
+      "uid": "30520969a69910d637aeb7bd4ba1a637",
       "css": "arrow_back_ios",
       "code": 59504,
       "src": "custom_icons",
@@ -1519,7 +1519,7 @@
       ]
     },
     {
-      "uid": "b34ea4781d3a36e050836dcccd222425",
+      "uid": "5ffb891e6abd5cf6b00009caf404e2c4",
       "css": "more",
       "code": 59505,
       "src": "custom_icons",
@@ -1533,7 +1533,7 @@
       ]
     },
     {
-      "uid": "924cda235642f64e12a361ecec77dd98",
+      "uid": "a7c9914f44afdf142525001874a37996",
       "css": "flag",
       "code": 59506,
       "src": "custom_icons",
@@ -1547,7 +1547,7 @@
       ]
     },
     {
-      "uid": "ee3d4c581b7ede29e6254ed95195a1a4",
+      "uid": "ecb120dfd5d43ed853b4dbbf48215adf",
       "css": "cut",
       "code": 59508,
       "src": "custom_icons",
@@ -1561,7 +1561,7 @@
       ]
     },
     {
-      "uid": "ab1c6b577916d2e9d38e19f17ef1d638",
+      "uid": "294c035125dc7fbda5c1f11c6be14925",
       "css": "file-mp4",
       "code": 59509,
       "src": "custom_icons",
@@ -1575,7 +1575,7 @@
       ]
     },
     {
-      "uid": "d2cca668445f63181d22a67e01fd9e4e",
+      "uid": "1a69f3531f692ee8723f5d56909dc90c",
       "css": "face-detect",
       "code": 59510,
       "src": "custom_icons",
@@ -1589,7 +1589,7 @@
       ]
     },
     {
-      "uid": "00729ee4d3ddb5bd640e1a890f0c0a6a",
+      "uid": "8ccd0e832bc4de6f07a106f93fdfe2d1",
       "css": "call",
       "code": 59511,
       "src": "custom_icons",
@@ -1603,7 +1603,7 @@
       ]
     },
     {
-      "uid": "0284d3b758bf0e09d6d98869efed9de9",
+      "uid": "03c7c7919e6e8b9a9d88129289f92377",
       "css": "check-double",
       "code": 59512,
       "src": "custom_icons",
@@ -1617,7 +1617,7 @@
       ]
     },
     {
-      "uid": "c9c4fca958f1043563a57af44922c098",
+      "uid": "d4d24148e8342f8926b0f6c20d985895",
       "css": "search-user",
       "code": 59513,
       "src": "custom_icons",
@@ -1631,7 +1631,7 @@
       ]
     },
     {
-      "uid": "64ce3cdd65e376269a6a615a582f04be",
+      "uid": "2f729b8f0385ad83cafb5ecd5bd770da",
       "css": "filter-list",
       "code": 59514,
       "src": "custom_icons",
@@ -1645,7 +1645,7 @@
       ]
     },
     {
-      "uid": "9881725ba6350fc9434920cd04ec884f",
+      "uid": "332039cc5c3b71b48489e9f6c61c8e82",
       "css": "phone-iphone",
       "code": 59515,
       "src": "custom_icons",
@@ -1659,7 +1659,7 @@
       ]
     },
     {
-      "uid": "2092e4e992c8eef6610b8e71d61b83de",
+      "uid": "7120322648861dab39d2ce9c0bdf1419",
       "css": "phonelink-lock",
       "code": 59516,
       "src": "custom_icons",
@@ -1673,7 +1673,7 @@
       ]
     },
     {
-      "uid": "20de5596c52cdbc7d953260537551fd6",
+      "uid": "a4cd182a84e0356f97b9cffd51722ed4",
       "css": "email",
       "code": 59517,
       "src": "custom_icons",
@@ -1687,7 +1687,7 @@
       ]
     },
     {
-      "uid": "69ba9e7f354a07b512a20950b8b62046",
+      "uid": "02d1587b4ac130ecc2de2c6610ef20d7",
       "css": "1x",
       "code": 59518,
       "src": "custom_icons",
@@ -1701,7 +1701,7 @@
       ]
     },
     {
-      "uid": "580223984d02b42df0d7b1046cafa7af",
+      "uid": "9934aece93210fa60e6c7ab023451ba3",
       "css": "2x",
       "code": 59519,
       "src": "custom_icons",
@@ -1715,7 +1715,7 @@
       ]
     },
     {
-      "uid": "15159f814a265b0a0534f50aab7eda56",
+      "uid": "7cb2e4343f214f8eaf4cc2a507c2c8d4",
       "css": "4x",
       "code": 59520,
       "src": "custom_icons",
@@ -1729,7 +1729,7 @@
       ]
     },
     {
-      "uid": "9445ad424b0ef0e6b64182242e5c6180",
+      "uid": "6f637623493c63be36d44def1a2b2722",
       "css": "05x",
       "code": 59521,
       "src": "custom_icons",
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "uid": "9b294e66aa9a0e921eff6be58563409a",
+      "uid": "3e123f6ce889924e64794edd0e6523ec",
       "css": "8x",
       "code": 59522,
       "src": "custom_icons",
@@ -1757,7 +1757,7 @@
       ]
     },
     {
-      "uid": "7b3a63c14d728d5600ca7b000fc64bfd",
+      "uid": "4c517498a0f11e605852cdb6bc5fde05",
       "css": "025x",
       "code": 59523,
       "src": "custom_icons",
@@ -1771,7 +1771,7 @@
       ]
     },
     {
-      "uid": "7cc3fe2ecb3098c1d8c66eb883cece34",
+      "uid": "7db2dc16572c128e5f5cbfdc44d418d4",
       "css": "camera-alt",
       "code": 59524,
       "src": "custom_icons",
@@ -1785,7 +1785,7 @@
       ]
     },
     {
-      "uid": "7da33a436d9ec4c1bc211a1fcfc0807f",
+      "uid": "998cd66f3d58c97e3dd9d1cd3c7e0c15",
       "css": "hd",
       "code": 59525,
       "src": "custom_icons",
@@ -1799,7 +1799,7 @@
       ]
     },
     {
-      "uid": "ee22b3464efd800a8ca88d3486aff932",
+      "uid": "f99fd8c35e23a8f0e1c4f96d9716177b",
       "css": "timelapse",
       "code": 59526,
       "src": "custom_icons",
@@ -1813,7 +1813,7 @@
       ]
     },
     {
-      "uid": "a59daf6821a214f2f8d73beb1b515aa0",
+      "uid": "a50b5c279d38ed60e70110bb8b98afca",
       "css": "slow-motion-video",
       "code": 59527,
       "src": "custom_icons",
@@ -1827,7 +1827,7 @@
       ]
     },
     {
-      "uid": "a8c5abd9c500affea116866673ed2f1e",
+      "uid": "4806425b8da1477f791cb50a6acec9c0",
       "css": "lock-stroke",
       "code": 59528,
       "src": "custom_icons",
@@ -1841,7 +1841,7 @@
       ]
     },
     {
-      "uid": "2bb682db247556280d18cfdb0339c9d0",
+      "uid": "8023e419df380fb82bdaca223b29111c",
       "css": "application-stack",
       "code": 59529,
       "src": "custom_icons",
@@ -1855,7 +1855,7 @@
       ]
     },
     {
-      "uid": "ccbf8d7ad8dd664e8e40c20fb1c5ebc2",
+      "uid": "ce2e08f91c717ce471769ef1972c4b86",
       "css": "backward-10",
       "code": 59530,
       "src": "custom_icons",
@@ -1869,7 +1869,7 @@
       ]
     },
     {
-      "uid": "1026d005b5d773a1994f638a532a4ec8",
+      "uid": "a34e21a4dda98df274781fa64603604a",
       "css": "forward-10",
       "code": 59531,
       "src": "custom_icons",
@@ -1883,7 +1883,7 @@
       ]
     },
     {
-      "uid": "33c69379ec93d79bc4da62d6f9f3613c",
+      "uid": "b66eb7c6bc8b6265689152ec6df0a822",
       "css": "unlocked-filled",
       "code": 59532,
       "src": "custom_icons",
@@ -1897,7 +1897,7 @@
       ]
     },
     {
-      "uid": "773afb6b5cf762fe7c2b701ee727bf03",
+      "uid": "35a570d93476ef0f887544e2359f7809",
       "css": "unlock",
       "code": 59534,
       "src": "custom_icons",
@@ -1911,7 +1911,7 @@
       ]
     },
     {
-      "uid": "ba8f731d0f20e93cbcd86e2a96414a17",
+      "uid": "0444b091bc57c6c1d7f1b9a0e4aec2e8",
       "css": "fingerprint",
       "code": 59535,
       "src": "custom_icons",
@@ -1925,7 +1925,7 @@
       ]
     },
     {
-      "uid": "f18fbd0a5b9224e4103f660d671373f6",
+      "uid": "a5ce87d033c61fd7662cda1454fa15ea",
       "css": "history",
       "code": 59536,
       "src": "custom_icons",
@@ -1939,7 +1939,7 @@
       ]
     },
     {
-      "uid": "0d09aaa31f842986f2a8f70a53667fb0",
+      "uid": "c7b64cf02d022d065bdcb70b485817a5",
       "css": "minus",
       "code": 59537,
       "src": "custom_icons",
@@ -1953,7 +1953,7 @@
       ]
     },
     {
-      "uid": "a34a6d4f75044ff7bf36e6fb970eebaa",
+      "uid": "6adb9c90f3487b500ce7fae5ec0997e6",
       "css": "lock_open",
       "code": 59538,
       "src": "custom_icons",
@@ -1967,7 +1967,7 @@
       ]
     },
     {
-      "uid": "05750eff4c166f7652c836ad7d11e926",
+      "uid": "87b378242a540aa0324caf27f27c78dc",
       "css": "sensors_off",
       "code": 59539,
       "src": "custom_icons",
@@ -1981,7 +1981,7 @@
       ]
     },
     {
-      "uid": "4abbc49c0d7f4ee735b0cd86386925d6",
+      "uid": "287669ee99dfb1552caebd6ac88a9065",
       "css": "bar-chart-4-bars",
       "code": 59540,
       "src": "custom_icons",
@@ -1995,7 +1995,7 @@
       ]
     },
     {
-      "uid": "13adfdcd504a83cd9174b9908cbf6493",
+      "uid": "762473e11163b5fc18b33c0a422ed3a3",
       "css": "count-people",
       "code": 59541,
       "src": "custom_icons",
@@ -2009,7 +2009,7 @@
       ]
     },
     {
-      "uid": "d1536e18c8a9fc3276e5f5d8fcfe6095",
+      "uid": "f7d144b20169da50695ec460a8c6719b",
       "css": "conversion-path",
       "code": 59542,
       "src": "custom_icons",
@@ -2023,7 +2023,7 @@
       ]
     },
     {
-      "uid": "dc0134f2668d288f3a02f0aa6a859f34",
+      "uid": "65ab7fa04265da7884cfcad77733590d",
       "css": "group",
       "code": 59543,
       "src": "custom_icons",
@@ -2037,7 +2037,7 @@
       ]
     },
     {
-      "uid": "62555bc05b4db1d22b16e14b395e53df",
+      "uid": "20c85e4344335c00ff30a678e4a3f6c0",
       "css": "fall",
       "code": 59544,
       "src": "custom_icons",
@@ -2051,7 +2051,7 @@
       ]
     },
     {
-      "uid": "8660a8085826745622b640305642dbfa",
+      "uid": "05c03b8dc8cb4db860950520608cd5bf",
       "css": "id-card",
       "code": 59545,
       "src": "custom_icons",
@@ -2065,7 +2065,7 @@
       ]
     },
     {
-      "uid": "8c815996ed448eda10f6b2902ea6cac0",
+      "uid": "573d7a1f04a16aed4354056830f41443",
       "css": "shopping_cart_checkout",
       "code": 59546,
       "src": "custom_icons",
@@ -2079,7 +2079,7 @@
       ]
     },
     {
-      "uid": "b184e63480630bf183d4211dc8564673",
+      "uid": "be973a05464ca2951dab4f39068c21e1",
       "css": "shopping-cart",
       "code": 59547,
       "src": "custom_icons",
@@ -2093,7 +2093,7 @@
       ]
     },
     {
-      "uid": "e1ebf7fcdbbd0b9dcbd88039a11226ea",
+      "uid": "83b5ebfca3e17016941291dbc7386a80",
       "css": "waves",
       "code": 59548,
       "src": "custom_icons",
@@ -2107,7 +2107,7 @@
       ]
     },
     {
-      "uid": "b4a9aa21e2931095092585683da014e8",
+      "uid": "0d7e5e8a85a7dcd8cbc7c11ebfbe6b0e",
       "css": "security-protect",
       "code": 59549,
       "src": "custom_icons",
@@ -2121,7 +2121,7 @@
       ]
     },
     {
-      "uid": "0e835628cbddcca057117dd0ff7fc94d",
+      "uid": "7a20af7706af42bcd43c88fafcdc1e0b",
       "css": "image-outline",
       "code": 59550,
       "src": "custom_icons",
@@ -2135,7 +2135,7 @@
       ]
     },
     {
-      "uid": "9e430fdfc4cafbe46c30e99637f026f5",
+      "uid": "1595b7dc0b1806009970219d8c78514d",
       "css": "file-i3d",
       "code": 59551,
       "src": "custom_icons",
@@ -2149,7 +2149,7 @@
       ]
     },
     {
-      "uid": "12159564ed24e377ecbcd386d12a060f",
+      "uid": "1ebb3fc7a25e532c38741312de5a4ffb",
       "css": "folder-outline",
       "code": 59552,
       "src": "custom_icons",
@@ -2163,7 +2163,7 @@
       ]
     },
     {
-      "uid": "b8ec844f112d40a751cf66a1b61b8ffe",
+      "uid": "d8e158a98ed79f3ed3d85fd178d67375",
       "css": "link-off",
       "code": 59553,
       "src": "custom_icons",
@@ -2177,7 +2177,7 @@
       ]
     },
     {
-      "uid": "eb37f8d8ffd2a1c7a70e597394934a71",
+      "uid": "8ef6146700bfe078bfa003df026a53ae",
       "css": "play-circle-outline",
       "code": 59554,
       "src": "custom_icons",
@@ -2191,7 +2191,7 @@
       ]
     },
     {
-      "uid": "b35f764a6ac490bead37a6599bc688e3",
+      "uid": "a8e5cded5c4482ff5cddf6b2ce1f08eb",
       "css": "share-social",
       "code": 59555,
       "src": "custom_icons",
@@ -2205,7 +2205,7 @@
       ]
     },
     {
-      "uid": "c70d9c035ee06a3bbe7b9596c414820b",
+      "uid": "8f4ffe92beb898b7f58a3e91063eb256",
       "css": "save-alt",
       "code": 59556,
       "src": "custom_icons",
@@ -2219,7 +2219,7 @@
       ]
     },
     {
-      "uid": "02714e347928a653e882437a64f5ecfa",
+      "uid": "d4c2f6d4ed1741fec615566fb1777719",
       "css": "video-streaming",
       "code": 59557,
       "src": "custom_icons",
@@ -2233,7 +2233,7 @@
       ]
     },
     {
-      "uid": "e6295bfd99f3a6124c43e3bdf02c3e9e",
+      "uid": "e339ef602899963157b478c0198328c0",
       "css": "computer_arrow_up",
       "code": 59558,
       "src": "custom_icons",
@@ -2247,7 +2247,7 @@
       ]
     },
     {
-      "uid": "01f05881d1939687f586aee34cc41178",
+      "uid": "2ebea08cf14a60c8a32cc34275ddcc16",
       "css": "network_node",
       "code": 59559,
       "src": "custom_icons",
@@ -2261,7 +2261,7 @@
       ]
     },
     {
-      "uid": "72ce8d665ecb0236119612b255c48726",
+      "uid": "2f20a6622b817ddc920b6e8862147447",
       "css": "case-server",
       "code": 59560,
       "src": "custom_icons",
@@ -2275,7 +2275,7 @@
       ]
     },
     {
-      "uid": "2b66d2fe47e58ef393b3f8c14bb14840",
+      "uid": "bb7b491f23eba0b107325196f2021b54",
       "css": "person_stroke",
       "code": 59561,
       "src": "custom_icons",
@@ -2289,7 +2289,7 @@
       ]
     },
     {
-      "uid": "089b61f96f7e9887d8effe15bd873677",
+      "uid": "93666801cf09b06666fea554a28d1643",
       "css": "content-copy",
       "code": 59562,
       "src": "custom_icons",
@@ -2303,7 +2303,119 @@
       ]
     },
     {
-      "uid": "f7fbd46ad4b3258c4438fd2e941fc047",
+      "uid": "ada0d07aa4e0a0575cc0c97200ace0d8",
+      "css": "person",
+      "code": 59563,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M500 250C546 250 583 287 583 333 583 379 546 417 500 417 454 417 417 379 417 333 417 287 454 250 500 250ZM500 667C613 667 742 720 750 750H250C260 720 388 667 500 667ZM500 167C408 167 333 241 333 333 333 425 408 500 500 500 592 500 667 425 667 333 667 241 592 167 500 167ZM500 583C389 583 167 639 167 750V833H833V750C833 639 611 583 500 583Z",
+        "width": 1000
+      },
+      "search": [
+        "person"
+      ]
+    },
+    {
+      "uid": "faa04015003db403e12dabc0ef75ebed",
+      "css": "volume-up",
+      "code": 59564,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M125 375V625H292L500 833V167L292 375H125ZM417 368V632L326 542H208V458H326L417 368ZM688 500C688 426 645 363 583 332V667C645 637 688 574 688 500ZM583 135V220C704 256 792 368 792 500 792 632 704 744 583 780V865C750 827 875 678 875 500 875 322 750 172 583 135Z",
+        "width": 1000
+      },
+      "search": [
+        "volume-up"
+      ]
+    },
+    {
+      "uid": "8f0b0acaef4d80158a86aba10486e750",
+      "css": "content-copy-1",
+      "code": 59565,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M375 750C352 750 333 742 316 725 300 709 292 690 292 667V167C292 144 300 124 316 108 333 91 352 83 375 83H750C773 83 793 91 809 108 825 124 833 144 833 167V667C833 690 825 709 809 725 793 742 773 750 750 750H375ZM375 667H750V167H375V667ZM208 917C185 917 166 909 150 892 133 876 125 856 125 833V250H208V833H667V917H208Z",
+        "width": 1000
+      },
+      "search": [
+        "content-copy-1"
+      ]
+    },
+    {
+      "uid": "e2fb22046d6881849b62616c604c9a55",
+      "css": "pause-1",
+      "code": 59566,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M333 792C379 792 417 754 417 708V292C417 246 379 208 333 208 288 208 250 246 250 292V708C250 754 288 792 333 792ZM583 292V708C583 754 621 792 667 792 713 792 750 754 750 708V292C750 246 713 208 667 208 621 208 583 246 583 292Z",
+        "width": 1000
+      },
+      "search": [
+        "pause-1"
+      ]
+    },
+    {
+      "uid": "ca0a57623b7a6c23b01435998d28e996",
+      "css": "keyboard-voice",
+      "code": 59567,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M500 625C569 625 625 569 625 500L625 250C625 181 569 125 500 125 431 125 375 181 375 250V500C375 569 431 625 500 625ZM753 500C736 500 721 512 719 530 703 638 605 712 500 712 395 712 297 639 281 530 279 512 264 500 247 500 225 500 208 519 211 540 230 664 335 761 458 780V875C458 898 477 917 500 917 523 917 542 898 542 875V780C665 762 770 664 789 540 792 519 775 500 753 500Z",
+        "width": 1000
+      },
+      "search": [
+        "keyboard-voice"
+      ]
+    },
+    {
+      "uid": "c520c1ec57c13504b42f72f0a3a2fb3c",
+      "css": "stop",
+      "code": 59568,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M333 250H667C713 250 750 287 750 333V667C750 712 713 750 667 750H333C288 750 250 712 250 667V333C250 287 288 250 333 250Z",
+        "width": 1000
+      },
+      "search": [
+        "stop"
+      ]
+    },
+    {
+      "uid": "c73221ed74061c0a142a6eb8a58841da",
+      "css": "ai-icon",
+      "code": 59569,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M601 851L550 967C531 1011 469 1011 450 967L399 851C354 748 273 666 172 621L33 559C-11 539-11 475 33 455L168 395C272 349 354 264 398 158L449 34C468-12 532-12 551 34L602 158C646 264 729 349 832 395L967 455C1011 475 1011 539 967 559L828 621C727 666 646 748 601 851Z",
+        "width": 1000
+      },
+      "search": [
+        "ai-icon"
+      ]
+    },
+    {
+      "uid": "d43e8a00828c9285b0c8f86315964f4f",
+      "css": "arrow-downward",
+      "code": 59570,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M458 208V674L255 470C239 454 212 454 196 470 180 487 180 513 196 529L470 804C487 820 513 820 529 804L804 529C820 513 820 487 804 470 788 454 761 454 745 470L542 674V208C542 185 523 167 500 167 477 167 458 185 458 208Z",
+        "width": 1000
+      },
+      "search": [
+        "arrow-downward"
+      ]
+    },
+    {
+      "uid": "6cf04d550593dcefbb4ab6dd09dde6c6",
       "css": "wc-2",
       "code": 59907,
       "src": "custom_icons",
@@ -2317,7 +2429,7 @@
       ]
     },
     {
-      "uid": "604edbc63e714c3a1c1f5daf0314e650",
+      "uid": "2ae109fea1974e84f07e06aab4db1f3a",
       "css": "family",
       "code": 59908,
       "src": "custom_icons",
@@ -2331,7 +2443,7 @@
       ]
     },
     {
-      "uid": "f2ed43f4e2f4dee64680aaaf5abf48f1",
+      "uid": "508165cb30a52818ddd9a1ebae6f3e79",
       "css": "time-clock",
       "code": 59909,
       "src": "custom_icons",
@@ -2345,7 +2457,7 @@
       ]
     },
     {
-      "uid": "c2f829ac03a5b9cddc18b618643d15af",
+      "uid": "d7e921ddc9d6c5692acefb0ca83ff83e",
       "css": "s-pulse",
       "code": 59910,
       "src": "custom_icons",
@@ -2359,7 +2471,7 @@
       ]
     },
     {
-      "uid": "f39b771551d7ade021ed0a577f2f4af6",
+      "uid": "9817659254e3a2502e722e93d800a944",
       "css": "l-location",
       "code": 59911,
       "src": "custom_icons",
@@ -2373,7 +2485,7 @@
       ]
     },
     {
-      "uid": "377c898d8fe3d13aa14eb148dcd02d9f",
+      "uid": "a65bfdfb877b1002da155432460126b6",
       "css": "ic_live_tv_24px",
       "code": 59912,
       "src": "custom_icons",
@@ -2387,7 +2499,7 @@
       ]
     },
     {
-      "uid": "61845254cfe5a1ba3cb42740459e1dc3",
+      "uid": "f6944ee9563bf28e6b1217619520dad4",
       "css": "todo",
       "code": 59913,
       "src": "custom_icons",
@@ -2401,115 +2513,17 @@
       ]
     },
     {
-      "uid": "baa0d1f64588cd0b3cef6cbdf27fa744",
-      "css": "person",
-      "code": 59563,
+      "uid": "ffd930dbb62468426350d5c24cfef55a",
+      "css": "location-pin",
+      "code": 59571,
       "src": "custom_icons",
       "selected": true,
       "svg": {
-        "path": "M500 250C545.8 250 583.3 287.5 583.3 333.3 583.3 379.2 545.8 416.7 500 416.7 454.2 416.7 416.7 379.2 416.7 333.3 416.7 287.5 454.2 250 500 250ZM500 666.7C612.5 666.7 741.7 720.4 750 750H250C259.6 720 387.9 666.7 500 666.7ZM500 166.7C407.9 166.7 333.3 241.3 333.3 333.3 333.3 425.4 407.9 500 500 500 592.1 500 666.7 425.4 666.7 333.3 666.7 241.3 592.1 166.7 500 166.7ZM500 583.3C388.8 583.3 166.7 639.2 166.7 750V833.3H833.3V750C833.3 639.2 611.3 583.3 500 583.3Z",
+        "path": "M500 41.7C338.8 41.7 208.3 172.1 208.3 333.3 208.3 552.1 500 875 500 875 500 875 791.7 552.1 791.7 333.3 791.7 172.1 661.3 41.7 500 41.7ZM291.7 333.3C291.7 218.3 385 125 500 125 615 125 708.3 218.3 708.3 333.3 708.3 453.3 588.3 632.9 500 745 413.3 633.8 291.7 452.1 291.7 333.3ZM658.2 708.3C716.2 714.6 767.8 724.1 813 736.9 858.3 749.6 893.8 764.6 919.6 781.8 945.4 798.9 958.3 816.8 958.3 835.5 958.3 859.9 937.8 882.3 896.7 902.9 855.6 923.5 800.3 939.7 730.8 951.5 659.5 964 582.4 970.2 499.5 970.2 416.7 970.2 339.6 964 268.2 951.5 199.4 939.7 144.4 923.5 103.3 902.9 62.2 882.3 41.7 859.9 41.7 835.5 41.7 816.2 54.3 798.1 79.4 781.3 104.6 764.5 139.8 749.8 185 737.3 230.3 724.9 281.9 715.2 339.9 708.3 293.4 715.8 252 726.1 215.6 739.2 179.3 752.3 151 766.5 130.6 781.8 110.2 797 100 812.5 100 828.1 100 848 117.8 866.6 153.5 883.7 189.2 900.9 237.3 914.4 297.8 924.4 359.6 934.4 426.9 939.4 499.5 939.4 572.2 939.4 639.4 934.4 701.2 924.4 761.7 914.4 809.9 900.9 845.5 883.7 881.2 866.6 899.1 848 899.1 828.1 899.1 812.5 888.9 796.9 868.5 781.3 848.1 765.7 819.6 751.5 782.9 738.7 746.3 726 704.7 715.8 658.2 708.3ZM604.2 333.3C604.2 390.9 557.5 437.5 500 437.5 442.5 437.5 395.8 390.9 395.8 333.3 395.8 275.8 442.5 229.2 500 229.2 557.5 229.2 604.2 275.8 604.2 333.3Z",
         "width": 1000
       },
       "search": [
-        "person"
-      ]
-    },
-    {
-      "uid": "af38dfd1d54496f63a4444767b766f05",
-      "css": "volume-up",
-      "code": 59564,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M125 375V625H291.7L500 833.3V166.7L291.7 375H125ZM416.7 367.9V632.1L326.3 541.7H208.3V458.3H326.3L416.7 367.9ZM687.5 500C687.5 426.2 645 362.9 583.3 332.1V667.5C645 637.1 687.5 573.8 687.5 500ZM583.3 134.6V220.4C703.8 256.2 791.7 367.9 791.7 500 791.7 632.1 703.8 743.8 583.3 779.6V865.4C750.4 827.5 875 678.3 875 500 875 321.7 750.4 172.5 583.3 134.6Z",
-        "width": 1000
-      },
-      "search": [
-        "volume-up"
-      ]
-    },
-    {
-      "uid": "24442638db4b84e934971d04f7760d16",
-      "css": "content-copy-1",
-      "code": 59565,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M375 750C352.1 750 332.5 741.8 316.1 725.5 299.8 709.2 291.7 689.6 291.7 666.7V166.7C291.7 143.7 299.8 124.1 316.1 107.8 332.5 91.5 352.1 83.3 375 83.3H750C772.9 83.3 792.5 91.5 808.9 107.8 825.2 124.1 833.3 143.7 833.3 166.7V666.7C833.3 689.6 825.2 709.2 808.9 725.5 792.5 741.8 772.9 750 750 750H375ZM375 666.7H750V166.7H375V666.7ZM208.3 916.7C185.4 916.7 165.8 908.5 149.5 892.2 133.2 875.9 125 856.3 125 833.3V250H208.3V833.3H666.7V916.7H208.3Z",
-        "width": 1000
-      },
-      "search": [
-        "content-copy"
-      ]
-    },
-    {
-      "uid": "c7682f13e941ecec88f25c2b2dc95c23",
-      "css": "pause-1",
-      "code": 59566,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M333.3 791.7C379.2 791.7 416.7 754.2 416.7 708.3V291.7C416.7 245.8 379.2 208.3 333.3 208.3 287.5 208.3 250 245.8 250 291.7V708.3C250 754.2 287.5 791.7 333.3 791.7ZM583.3 291.7V708.3C583.3 754.2 620.8 791.7 666.7 791.7 712.5 791.7 750 754.2 750 708.3V291.7C750 245.8 712.5 208.3 666.7 208.3 620.8 208.3 583.3 245.8 583.3 291.7Z",
-        "width": 1000
-      },
-      "search": [
-        "pause"
-      ]
-    },
-    {
-      "uid": "988e6c2d97ad8727b4a462dca70aed0c",
-      "css": "keyboard-voice",
-      "code": 59567,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M500 625C569.2 625 624.6 569.2 624.6 500L625 250C625 180.8 569.2 125 500 125 430.8 125 375 180.8 375 250V500C375 569.2 430.8 625 500 625ZM753.3 500C735.8 500 721.2 512.5 718.8 529.6 703.3 638.3 605.4 712.5 500 712.5 394.6 712.5 296.7 638.8 281.2 529.6 278.7 512.5 263.7 500 246.7 500 225 500 208.3 519.2 211.2 540.4 230.4 664.2 334.6 761.2 458.3 780V875C458.3 897.9 477.1 916.7 500 916.7 522.9 916.7 541.7 897.9 541.7 875V780C665 762.1 769.6 664.2 788.8 540.4 791.7 519.2 775 500 753.3 500Z",
-        "width": 1000
-      },
-      "search": [
-        "keyboard-voice"
-      ]
-    },
-    {
-      "uid": "97302f5d03633b30927c91ad52e62761",
-      "css": "stop",
-      "code": 59568,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M333.3 250H666.7C712.5 250 750 287.5 750 333.3V666.7C750 712.5 712.5 750 666.7 750H333.3C287.5 750 250 712.5 250 666.7V333.3C250 287.5 287.5 250 333.3 250Z",
-        "width": 1000
-      },
-      "search": [
-        "stop"
-      ]
-    },
-    {
-      "uid": "e65b58deaa49a670badc223e21e558e2",
-      "css": "ai-icon",
-      "code": 59569,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M600.8 850.8L550.2 966.6C530.8 1011.1 469.2 1011.1 449.8 966.6L399.2 850.8C354.3 747.7 273.3 665.7 172.3 620.8L33.2 559C-11.1 539.4-11.1 475 33.2 455.3L168 395.5C271.6 349.5 354 264.4 398.2 157.8L449.4 34.4C468.4-11.5 531.6-11.5 550.6 34.4L601.8 157.8C646 264.4 728.5 349.5 832 395.5L966.8 455.3C1011.1 475 1011.1 539.4 966.8 559L827.7 620.8C726.7 665.7 645.7 747.7 600.8 850.8Z",
-        "width": 1000
-      },
-      "search": [
-        "ai-icon"
-      ]
-    },
-    {
-      "uid": "1031426e208c6787ac5805e15639e5ef",
-      "css": "arrow-downward",
-      "code": 59570,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M458.3 208.3V673.8L255 470.4C238.8 454.2 212.1 454.2 195.8 470.4 179.6 486.7 179.6 512.9 195.8 529.2L470.4 803.8C486.7 820 512.9 820 529.2 803.8L803.8 529.2C820 512.9 820 486.7 803.8 470.4 787.5 454.2 761.3 454.2 745 470.4L541.7 673.8V208.3C541.7 185.4 522.9 166.7 500 166.7 477.1 166.7 458.3 185.4 458.3 208.3Z",
-        "width": 1000
-      },
-      "search": [
-        "arrow-downward"
+        "location-pin"
       ]
     }
   ]
