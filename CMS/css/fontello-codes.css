@@ -169,6 +169,8 @@
 .icon-chart-bar:before { content: '\e9e5'; } /* '' */
 .icon-keyboard-voice:before { content: '\e9e6'; } /* '' */
 .icon-mic-off:before { content: '\e9e7'; } /* '' */
+.icon-retrigger:before { content: '\e9e8'; } /* '' */
+.icon-draw-shape-rectangle:before { content: '\e9e9'; } /* '' */
 .icon-mail:before { content: '\ea0d'; } /* '' */
 .icon-user:before { content: '\ea15'; } /* '' */
 .icon-video:before { content: '\ea19'; } /* '' */
