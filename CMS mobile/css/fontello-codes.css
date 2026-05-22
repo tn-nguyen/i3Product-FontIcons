@@ -172,6 +172,9 @@
 .icon-ai-icon:before { content: '\e8b1'; } /* '' */
 .icon-arrow-downward:before { content: '\e8b2'; } /* '' */
 .icon-location-pin:before { content: '\e8b3'; } /* '' */
+.icon-temperature-outline:before { content: '\e8b4'; } /* '' */
+.icon-whatshot:before { content: '\e8b5'; } /* '' */
+.icon-draw-shape-rectangle:before { content: '\e8b6'; } /* '' */
 .icon-wc-2:before { content: '\ea03'; } /* '' */
 .icon-family:before { content: '\ea04'; } /* '' */
 .icon-time-clock:before { content: '\ea05'; } /* '' */
