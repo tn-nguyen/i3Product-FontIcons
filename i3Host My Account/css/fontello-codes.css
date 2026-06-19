@@ -44,3 +44,6 @@
 .icon-invoice:before { content: '\e82a'; } /* '' */
 .icon-check-circle:before { content: '\e82b'; } /* '' */
 .icon-cancel:before { content: '\e82c'; } /* '' */
+.icon-camera-touring:before { content: '\e82d'; } /* '' */
+.icon-camera-fisheye:before { content: '\e82e'; } /* '' */
+.icon-videocam-1:before { content: '\e82f'; } /* '' */
