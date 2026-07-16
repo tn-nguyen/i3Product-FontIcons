@@ -46,3 +46,9 @@
 .icon-more-vert:before { content: '\e82c'; } /* '' */
 .icon-notification-important:before { content: '\e82d'; } /* '' */
 .icon-checkable:before { content: '\e82e'; } /* '' */
+.icon-time-lock:before { content: '\e831'; } /* '' */
+.icon-check-circle-outline:before { content: '\e834'; } /* '' */
+.icon-arrow-md-left:before { content: '\e846'; } /* '' */
+.icon-ic_settings_outline_24px:before { content: '\e860'; } /* '' */
+.icon-play-arrow:before { content: '\e864'; } /* '' */
+.icon-insert-chart-outlined:before { content: '\e866'; } /* '' */

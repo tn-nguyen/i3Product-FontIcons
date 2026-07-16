@@ -568,6 +568,7 @@
 .icon-videocam-off:before { content: '\ea36'; } /* '' */
 .icon-camera-alt:before { content: '\ea37'; } /* '' */
 .icon-skip-previous:before { content: '\ea38'; } /* '' */
+.icon-place:before { content: '\ea39'; } /* '' */
 .icon-folder-open:before { content: '\ea3a'; } /* '' */
 .icon-hd:before { content: '\ea3b'; } /* '' */
 .icon-data-download:before { content: '\ea3c'; } /* '' */
@@ -589,3 +590,4 @@
 .icon-open-in-new:before { content: '\ea4c'; } /* '' */
 .icon-create-new-folder-stroke:before { content: '\ea4d'; } /* '' */
 .icon-empty:before { content: '\ea4e'; } /* '' */
+.icon-agent:before { content: '\ea4f'; } /* '' */

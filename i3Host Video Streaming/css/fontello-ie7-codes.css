@@ -568,6 +568,7 @@
 .icon-videocam-off { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea36;&nbsp;'); }
 .icon-camera-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea37;&nbsp;'); }
 .icon-skip-previous { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea38;&nbsp;'); }
+.icon-place { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea39;&nbsp;'); }
 .icon-folder-open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3a;&nbsp;'); }
 .icon-hd { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3b;&nbsp;'); }
 .icon-data-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3c;&nbsp;'); }
@@ -589,3 +590,4 @@
 .icon-open-in-new { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4c;&nbsp;'); }
 .icon-create-new-folder-stroke { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4d;&nbsp;'); }
 .icon-empty { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4e;&nbsp;'); }
+.icon-agent { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4f;&nbsp;'); }
